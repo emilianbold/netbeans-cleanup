@@ -1,0 +1,5 @@
+# Apache NetBeans (Incubating) license check
+
+A small script to see the NetBeans repository working directory licenses.
+
+cd into the repository and run license.sh
