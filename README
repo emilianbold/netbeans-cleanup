@@ -1,5 +1,8 @@
 # Apache NetBeans (Incubating) license check
 
-A small script to see the NetBeans repository working directory licenses.
+A small and ugly collection of scripts to see the NetBeans repository working directory licenses.
 
-cd into the repository and run license.sh
+cd nbbuild
+Then run read-clusters.sh > clusters.sh (or just use the clusters.sh provided)
+
+cd back into the repository and run license.sh

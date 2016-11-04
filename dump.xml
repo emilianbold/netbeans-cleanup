@@ -1,0 +1,6 @@
+<project>
+<target name='all'>
+<property file="cluster.properties"/>
+<echoproperties regex=".*cluster.*"/>
+</target>
+</project>

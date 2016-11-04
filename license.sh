@@ -1,6 +1,9 @@
 #!/bin/bash
 
-for i in *; do
+. nbbuild/clusters.sh
+
+for cluster in $clusters; do
+for i in ${!cluster}; do
     if [ -d $i ]; then
 
 
@@ -12,7 +15,7 @@ for i in *; do
        	    sed 's/.*nbbuild\/licenses\/\([A-Za-z0-9\-]*\).*/\1/g' | \
 	    sort | uniq | xargs echo`; do
 
-	    echo "$i,$lic";
+	    echo "$cluster,$i,$lic";
 	    emp=$lic;
 	done;
 
@@ -26,7 +29,7 @@ for i in *; do
 
 	       	for f in *-license.txt; do
 		    if [ -f "$f" ]; then
-			echo -n "$i,";
+			echo -n "$cluster,$i,";
 			head -10 $f | grep 'License:' | cut -f2- -d':';
 
 		    fi;
@@ -36,5 +39,7 @@ for i in *; do
 	    fi;
        )
     fi;
+
+done;
 
 done;

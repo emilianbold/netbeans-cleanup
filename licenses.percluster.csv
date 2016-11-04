@@ -1,0 +1,1648 @@
+websvccommon,websvc.jaxwsmodelapi,CDDL-GPL-2-CP
+websvccommon,websvc.saas.api,CDDL-GPL-2-CP
+websvccommon,websvc.saas.codegen,CDDL-GPL-2-CP
+websvccommon,websvc.saas.kit,CDDL-GPL-2-CP
+websvccommon,websvc.saas.services.amazon,CDDL-GPL-2-CP
+websvccommon,websvc.saas.services.delicious,CDDL-GPL-2-CP
+websvccommon,websvc.saas.services.flickr,CDDL-GPL-2-CP
+websvccommon,websvc.saas.services.google,CDDL-GPL-2-CP
+websvccommon,websvc.saas.services.strikeiron,CDDL-GPL-2-CP
+websvccommon,websvc.saas.services.weatherbug,CDDL-GPL-2-CP
+websvccommon,websvc.saas.services.zillow,CDDL-GPL-2-CP
+websvccommon,websvc.saas.services.zvents,CDDL-GPL-2-CP
+websvccommon,websvc.saas.ui,CDDL-GPL-2-CP
+webcommon,api.knockout,CDDL-GPL-2-CP
+webcommon,cordova,CDDL-GPL-2-CP
+webcommon,cordova.platforms,CDDL-GPL-2-CP
+webcommon,cordova.platforms.android,CDDL-GPL-2-CP
+webcommon,cordova.platforms.ios,CDDL-GPL-2-CP
+webcommon,cordova.platforms.ios, MIT-sim
+webcommon,cordova.platforms.ios, LGPL-2.1
+webcommon,cordova.platforms.ios, LGPL-2.1
+webcommon,cordova.platforms.ios, LGPL-2.1
+webcommon,extbrowser.chrome,CDDL-GPL-2-CP
+webcommon,html.angular,CDDL-GPL-2-CP
+webcommon,html.knockout,CDDL-GPL-2-CP
+webcommon,html.ojet,CDDL-GPL-2-CP
+webcommon,javascript.bower,CDDL-GPL-2-CP
+webcommon,javascript.cdnjs,CDDL-GPL-2-CP
+webcommon,javascript.grunt,CDDL-GPL-2-CP
+webcommon,javascript.gulp,CDDL-GPL-2-CP
+webcommon,javascript.jstestdriver,CDDL-GPL-2-CP
+webcommon,javascript.karma,CDDL-GPL-2-CP
+webcommon,javascript.nodejs,CDDL-GPL-2-CP
+webcommon,javascript.v8debug,CDDL-GPL-2-CP
+webcommon,javascript.v8debug.ui,CDDL-GPL-2-CP
+webcommon,javascript2.doc,CDDL-GPL-2-CP
+webcommon,javascript2.editor,CDDL-GPL-2-CP
+webcommon,javascript2.editor, BSD-ecmascript
+webcommon,javascript2.editor, W3C (the original at http://www.w3.org/TR/#tr_DOM)
+webcommon,javascript2.editor,
+webcommon,javascript2.extdoc,CDDL-GPL-2-CP
+webcommon,javascript2.extjs,CDDL-GPL-2-CP
+webcommon,javascript2.jade,CDDL-GPL-2-CP
+webcommon,javascript2.jquery,CDDL-GPL-2-CP
+webcommon,javascript2.jquery, MIT-jquery
+webcommon,javascript2.jsdoc,CDDL-GPL-2-CP
+webcommon,javascript2.json,CDDL-GPL-2-CP
+webcommon,javascript2.kit,CDDL-GPL-2-CP
+webcommon,javascript2.knockout,CDDL-GPL-2-CP
+webcommon,javascript2.lexer,CDDL-GPL-2-CP
+webcommon,javascript2.model,CDDL-GPL-2-CP
+webcommon,javascript2.nodejs,CDDL-GPL-2-CP
+webcommon,javascript2.prototypejs,CDDL-GPL-2-CP
+webcommon,javascript2.react,CDDL-GPL-2-CP
+webcommon,javascript2.requirejs,CDDL-GPL-2-CP
+webcommon,javascript2.sdoc,CDDL-GPL-2-CP
+webcommon,javascript2.source.query,CDDL-GPL-2-CP
+webcommon,javascript2.types,CDDL-GPL-2-CP
+webcommon,languages.apacheconf,CDDL-GPL-2-CP
+webcommon,languages.ini,CDDL-GPL-2-CP
+webcommon,lib.v8debug,CDDL-GPL-2-CP
+webcommon,libs.jstestdriver,CDDL-GPL-2-CP
+webcommon,libs.nashorn,CDDL-GPL-2-CP
+webcommon,libs.nashorn, GPL-2-CP
+webcommon,libs.plist,CDDL-GPL-2-CP
+webcommon,libs.plist, MIT-plist
+webcommon,netserver,CDDL-GPL-2-CP
+webcommon,selenium2.webclient,CDDL-GPL-2-CP
+webcommon,selenium2.webclient.mocha,CDDL-GPL-2-CP
+webcommon,selenium2.webclient.protractor,CDDL-GPL-2-CP
+webcommon,web.client.kit,CDDL-GPL-2-CP
+webcommon,web.client.samples,CDDL-GPL-2-CP
+webcommon,web.clientproject,CDDL-GPL-2-CP
+webcommon,web.clientproject.api,CDDL-GPL-2-CP
+webcommon,web.inspect,CDDL-GPL-2-CP
+webcommon,web.javascript.debugger,CDDL-GPL-2-CP
+webcommon,web.webkit.tooling,CDDL-GPL-2-CP
+team,bugtracking.kenai,CDDL-GPL-2-CP
+team,c.tasktop.c2c.server.cloud.api,CDDL-GPL-2-CP
+team,c.tasktop.c2c.server.cloud.api, EPL-v10
+team,c.tasktop.c2c.server.common.api,CDDL-GPL-2-CP
+team,c.tasktop.c2c.server.common.api, EPL-v10
+team,c.tasktop.c2c.server.profile.api,CDDL-GPL-2-CP
+team,c.tasktop.c2c.server.profile.api, EPL-v10
+team,c.tasktop.c2c.server.scm.api,CDDL-GPL-2-CP
+team,c.tasktop.c2c.server.scm.api, EPL-v10
+team,c.tasktop.c2c.server.tasks.api,CDDL-GPL-2-CP
+team,c.tasktop.c2c.server.tasks.api, EPL-v10
+team,c.tasktop.c2c.server.wiki.api,CDDL-GPL-2-CP
+team,c.tasktop.c2c.server.wiki.api, EPL-v10
+team,kenai,CDDL-GPL-2-CP
+team,kenai.kit,CDDL-GPL-2-CP
+team,kenai.maven,CDDL-GPL-2-CP
+team,kenai.ui,CDDL-GPL-2-CP
+team,lib.cvsclient,CDDL-GPL-2-CP
+team,o.codehaus.jackson.core,CDDL-GPL-2-CP
+team,o.codehaus.jackson.core, Apache-2.0
+team,o.codehaus.jackson.mapper,CDDL-GPL-2-CP
+team,o.codehaus.jackson.mapper, Apache-2.0
+team,odcs,CDDL-GPL-2-CP
+team,odcs.git,CDDL-GPL-2-CP
+team,odcs.hudson,CDDL-GPL-2-CP
+team,odcs.kit,CDDL-GPL-2-CP
+team,odcs.tasks,CDDL-GPL-2-CP
+team,odcs.tasks.bridge,CDDL-GPL-2-CP
+team,odcs.ui,CDDL-GPL-2-CP
+team,odcs.versioning,CDDL-GPL-2-CP
+team,oracle.clouddev.server.profile.activity.client.api,CDDL-GPL-2-CP
+team,oracle.clouddev.server.profile.activity.client.api, EPL-v10
+team,oracle.clouddev.server.profile.activity.client.rest,CDDL-GPL-2-CP
+team,oracle.clouddev.server.profile.activity.client.rest, EPL-v10
+team,oracle.eclipse.tools.cloud.dev.tasks,CDDL-GPL-2-CP
+team,oracle.eclipse.tools.cloud.dev.tasks, Oracle BSD License
+team,team.server,CDDL-GPL-2-CP
+team,team.server.nb,CDDL-GPL-2-CP
+team,versioning.kenai,CDDL-GPL-2-CP
+team,versioning.system.cvss,CDDL-GPL-2-CP
+stableuc,apisupport.apidocs,CDDL-GPL-2-CP
+stableuc,avatar_js.project,CDDL-GPL-2-CP
+stableuc,avatar_js.project, GPL-2-CP
+stableuc,cloud.oracle,CDDL-GPL-2-CP
+stableuc,db.mysql.sakila,CDDL-GPL-2-CP
+stableuc,deployment.deviceanywhere,CDDL-GPL-2-CP
+stableuc,findbugs,CDDL-GPL-2-CP
+stableuc,j2me.cdc.kit,CDDL-GPL-2-CP
+stableuc,j2me.cdc.platform,CDDL-GPL-2-CP
+stableuc,j2me.cdc.platform.nokias80,CDDL-GPL-2-CP
+stableuc,j2me.cdc.platform.ojec,CDDL-GPL-2-CP
+stableuc,j2me.cdc.platform.semc,CDDL-GPL-2-CP
+stableuc,j2me.cdc.platform.sjmc,CDDL-GPL-2-CP
+stableuc,j2me.cdc.platform.sun,CDDL-GPL-2-CP
+stableuc,j2me.cdc.project,CDDL-GPL-2-CP
+stableuc,j2me.cdc.project.execui,CDDL-GPL-2-CP
+stableuc,j2me.cdc.project.execuiimpl,CDDL-GPL-2-CP
+stableuc,j2me.cdc.project.nokiaS80,CDDL-GPL-2-CP
+stableuc,j2me.cdc.project.ojec,CDDL-GPL-2-CP
+stableuc,j2me.cdc.project.savaje,CDDL-GPL-2-CP
+stableuc,j2me.cdc.project.semc,CDDL-GPL-2-CP
+stableuc,j2me.cdc.project.sjmc,CDDL-GPL-2-CP
+stableuc,jconsole,CDDL-GPL-2-CP
+stableuc,jmx,CDDL-GPL-2-CP
+stableuc,jmx.common,CDDL-GPL-2-CP
+stableuc,libs.aguiswinglayout,CDDL-GPL-2-CP
+stableuc,libs.findbugs,CDDL-GPL-2-CP
+stableuc,libs.findbugs, BSD
+stableuc,libs.findbugs, Apache-2.0
+stableuc,libs.findbugs, Apache-2.0
+stableuc,libs.findbugs, DOM4J-BSD
+stableuc,libs.findbugs, LGPL-2.1
+stableuc,libs.findbugs, GPL
+stableuc,libs.findbugs, BSD
+stableuc,libs.findbugs, New BSD
+stableuc,libs.oracle.cloud,CDDL-GPL-2-CP
+stableuc,libs.oracle.cloud, CDDL-GPL-2-CP
+stableuc,libs.ppawtlayout,CDDL-GPL-2-CP
+stableuc,loadgenerator,CDDL-GPL-2-CP
+stableuc,maven.util,CDDL-GPL-2-CP
+stableuc,mobility.antext,CDDL-GPL-2-CP
+stableuc,mobility.antext, Apache-2.0
+stableuc,mobility.cldcplatform.catalog,CDDL-GPL-2-CP
+stableuc,mobility.deployment.ftpscp,CDDL-GPL-2-CP
+stableuc,mobility.deployment.nokia,CDDL-GPL-2-CP
+stableuc,mobility.deployment.nokia,stableuc,mobility.deployment.nokia,stableuc,mobility.deployment.sonyericsson,CDDL-GPL-2-CP
+stableuc,mobility.deployment.webdav,CDDL-GPL-2-CP
+stableuc,mobility.deployment.webdav, Apache-2.0
+stableuc,mobility.deployment.webdav, Apache-2.0
+stableuc,mobility.deployment.webdav, Apache-2.0
+stableuc,mobility.deployment.webdav, Apache-JDOM
+stableuc,mobility.editor,CDDL-GPL-2-CP
+stableuc,mobility.j2meunit,CDDL-GPL-2-CP
+stableuc,mobility.j2meunit, Apache-2.0
+stableuc,mobility.j2meunit, Apache-2.0
+stableuc,mobility.kit,CDDL-GPL-2-CP
+stableuc,mobility.plugins.mpowerplayer,CDDL-GPL-2-CP
+stableuc,mobility.project,CDDL-GPL-2-CP
+stableuc,mobility.project.bridge,CDDL-GPL-2-CP
+stableuc,mobility.project.bridge.impl,CDDL-GPL-2-CP
+stableuc,mobility.svgcore,CDDL-GPL-2-CP
+stableuc,mvd,CDDL-GPL-2-CP
+stableuc,o.apache.tools.ant.module.docs,CDDL-GPL-2-CP
+stableuc,o.apache.tools.ant.module.docs, Apache-2.0
+stableuc,o.n.swing.laf.dark,CDDL-GPL-2-CP
+stableuc,profiler.commandrunner,CDDL-GPL-2-CP
+stableuc,profiler.loadgen,CDDL-GPL-2-CP
+stableuc,svg.perseus,CDDL-GPL-2-CP
+stableuc,svg.perseus, Apache-2.0-Vera-Perseus
+stableuc,swingapplib,CDDL-GPL-2-CP
+stableuc,swingapplib,LGPL-2
+stableuc,swingapplib, LGPL-2.1
+stableuc,swingapplib, LGPL-2.1
+stableuc,vmd.analyzer,CDDL-GPL-2-CP
+stableuc,vmd.codegen,CDDL-GPL-2-CP
+stableuc,vmd.components.midp,CDDL-GPL-2-CP
+stableuc,vmd.components.midp.pda,CDDL-GPL-2-CP
+stableuc,vmd.components.midp.wma,CDDL-GPL-2-CP
+stableuc,vmd.components.svg,CDDL-GPL-2-CP
+stableuc,vmd.componentssupport,CDDL-GPL-2-CP
+stableuc,vmd.examples,CDDL-GPL-2-CP
+stableuc,vmd.flow,CDDL-GPL-2-CP
+stableuc,vmd.game,CDDL-GPL-2-CP
+stableuc,vmd.inspector,CDDL-GPL-2-CP
+stableuc,vmd.io,CDDL-GPL-2-CP
+stableuc,vmd.io.javame,CDDL-GPL-2-CP
+stableuc,vmd.kit,CDDL-GPL-2-CP
+stableuc,vmd.midp,CDDL-GPL-2-CP
+stableuc,vmd.midp.converter,CDDL-GPL-2-CP
+stableuc,vmd.midpnb,CDDL-GPL-2-CP
+stableuc,vmd.model,CDDL-GPL-2-CP
+stableuc,vmd.palette,CDDL-GPL-2-CP
+stableuc,vmd.properties,CDDL-GPL-2-CP
+stableuc,vmd.screen,CDDL-GPL-2-CP
+stableuc,vmd.structure,CDDL-GPL-2-CP
+contrib/o.jython,N/A
+contrib/o.jython.distro,N/A
+python,contrib/o.jython.distro, Jython
+contrib/python.console,N/A
+python,contrib/python.core,CDDL-GPL-2-CP
+python,contrib/python.debugger,CDDL-GPL-2-CP
+python,contrib/python.editor,CDDL-GPL-2-CP
+python,contrib/python.help,CDDL-GPL-2-CP
+python,contrib/python.kit,CDDL-GPL-2-CP
+contrib/python.options,N/A
+python,contrib/python.platform,CDDL-GPL-2-CP
+python,contrib/python.project,CDDL-GPL-2-CP
+python,contrib/python.samples,CDDL-GPL-2-CP
+python,contrib/python.testrunner,CDDL-GPL-2-CP
+profiler,debugger.jpda.heapwalk,CDDL-GPL-2-CP
+profiler,lib.profiler,CDDL-GPL-2-CP
+profiler,lib.profiler.charts,CDDL-GPL-2-CP
+profiler,lib.profiler.common,CDDL-GPL-2-CP
+profiler,lib.profiler.ui,CDDL-GPL-2-CP
+profiler,maven.profiler,CDDL-GPL-2-CP
+profiler,profiler,CDDL-GPL-2-CP
+profiler,profiler.api,CDDL-GPL-2-CP
+profiler,profiler.attach,CDDL-GPL-2-CP
+profiler,profiler.freeform,CDDL-GPL-2-CP
+profiler,profiler.heapwalker,CDDL-GPL-2-CP
+profiler,profiler.j2se,CDDL-GPL-2-CP
+profiler,profiler.kit,CDDL-GPL-2-CP
+profiler,profiler.nbimpl,CDDL-GPL-2-CP
+profiler,profiler.nbmodule,CDDL-GPL-2-CP
+profiler,profiler.options,CDDL-GPL-2-CP
+profiler,profiler.oql,CDDL-GPL-2-CP
+profiler,profiler.oql.language,CDDL-GPL-2-CP
+profiler,profiler.ppoints,CDDL-GPL-2-CP
+profiler,profiler.projectsupport,CDDL-GPL-2-CP
+profiler,profiler.snaptracer,CDDL-GPL-2-CP
+profiler,profiler.utilities,CDDL-GPL-2-CP
+platform,api.annotations.common,CDDL-GPL-2-CP
+platform,api.htmlui,CDDL-GPL-2-CP
+platform,api.intent,CDDL-GPL-2-CP
+platform,api.io,CDDL-GPL-2-CP
+platform,api.progress,CDDL-GPL-2-CP
+platform,api.progress.compat8,CDDL-GPL-2-CP
+platform,api.progress.nb,CDDL-GPL-2-CP
+platform,api.search,CDDL-GPL-2-CP
+platform,api.templates,CDDL-GPL-2-CP
+platform,api.visual,CDDL-GPL-2-CP
+platform,applemenu,CDDL-GPL-2-CP
+platform,autoupdate.cli,CDDL-GPL-2-CP
+platform,autoupdate.services,CDDL-GPL-2-CP
+platform,autoupdate.ui,CDDL-GPL-2-CP
+platform,core.execution,CDDL-GPL-2-CP
+platform,core.io.ui,CDDL-GPL-2-CP
+platform,core.kit,CDDL-GPL-2-CP
+platform,core.multitabs,CDDL-GPL-2-CP
+platform,core.multiview,CDDL-GPL-2-CP
+platform,core.nativeaccess,CDDL-GPL-2-CP
+platform,core.netigso,CDDL-GPL-2-CP
+platform,core.network,CDDL-GPL-2-CP
+platform,core.network, LGPL-2.1
+platform,core.osgi,CDDL-GPL-2-CP
+platform,core.output2,CDDL-GPL-2-CP
+platform,core.ui,CDDL-GPL-2-CP
+platform,core.windows,CDDL-GPL-2-CP
+platform,editor.mimelookup,CDDL-GPL-2-CP
+platform,editor.mimelookup.impl,CDDL-GPL-2-CP
+platform,favorites,CDDL-GPL-2-CP
+platform,javahelp,CDDL-GPL-2-CP
+platform,javahelp, GPL-2-CP
+platform,junitlib,CDDL-GPL-2-CP
+platform,junitlib,CPL-1
+platform,junitlib, CPL-1.0
+platform,junitlib, EPL-v10
+platform,keyring,CDDL-GPL-2-CP
+platform,keyring.fallback,CDDL-GPL-2-CP
+platform,keyring.impl,CDDL-GPL-2-CP
+platform,lib.uihandler,CDDL-GPL-2-CP
+platform,libs.felix,CDDL-GPL-2-CP
+platform,libs.felix, Apache-2.0
+platform,libs.javafx,CDDL-GPL-2-CP
+platform,libs.jna,CDDL-GPL-2-CP
+platform,libs.jna, Apache-2.0
+platform,libs.jna.platform,CDDL-GPL-2-CP
+platform,libs.jna.platform, Apache-2.0
+platform,libs.jsr223,CDDL-GPL-2-CP
+platform,libs.junit4,CDDL-GPL-2-CP
+platform,libs.junit4,CPL-1
+platform,libs.junit4, BSD
+platform,libs.junit4, EPL-v10
+platform,libs.osgi,CDDL-GPL-2-CP
+platform,libs.osgi, Apache-2.0
+platform,libs.testng,CDDL-GPL-2-CP
+platform,libs.testng, Apache-2.0
+platform,masterfs,CDDL-GPL-2-CP
+platform,masterfs.linux,CDDL-GPL-2-CP
+platform,masterfs.macosx,CDDL-GPL-2-CP
+platform,masterfs.nio2,CDDL-GPL-2-CP
+platform,masterfs.ui,CDDL-GPL-2-CP
+platform,masterfs.windows,CDDL-GPL-2-CP
+platform,net.java.html,CDDL-GPL-2-CP
+platform,net.java.html.boot,CDDL-GPL-2-CP
+platform,net.java.html.boot.fx,CDDL-GPL-2-CP
+platform,net.java.html.boot.script,CDDL-GPL-2-CP
+platform,net.java.html.geo,CDDL-GPL-2-CP
+platform,net.java.html.json,CDDL-GPL-2-CP
+platform,net.java.html.sound,CDDL-GPL-2-CP
+platform,netbinox,CDDL-GPL-2-CP
+platform,netbinox, OSGi-LICENSE
+platform,o.jdesktop.layout,CDDL-GPL-2-CP
+platform,o.jdesktop.layout, LGPL-2.1
+platform,o.n.core,CDDL-GPL-2-CP
+platform,o.n.html.ko4j,CDDL-GPL-2-CP
+platform,o.n.html.xhr4j,CDDL-GPL-2-CP
+platform,o.n.swing.outline,CDDL-GPL-2-CP
+platform,o.n.swing.plaf,CDDL-GPL-2-CP
+platform,o.n.swing.tabcontrol,CDDL-GPL-2-CP
+platform,openide.actions,CDDL-GPL-2-CP
+platform,openide.awt,CDDL-GPL-2-CP
+platform,openide.compat,CDDL-GPL-2-CP
+platform,openide.dialogs,CDDL-GPL-2-CP
+platform,openide.execution,CDDL-GPL-2-CP
+platform,openide.execution.compat8,CDDL-GPL-2-CP
+platform,openide.explorer,CDDL-GPL-2-CP
+platform,openide.filesystems.compat8,CDDL-GPL-2-CP
+platform,openide.filesystems.nb,CDDL-GPL-2-CP
+platform,openide.io,CDDL-GPL-2-CP
+platform,openide.loaders,CDDL-GPL-2-CP
+platform,openide.nodes,CDDL-GPL-2-CP
+platform,openide.options,CDDL-GPL-2-CP
+platform,openide.text,CDDL-GPL-2-CP
+platform,openide.util.enumerations,CDDL-GPL-2-CP
+platform,openide.windows,CDDL-GPL-2-CP
+platform,options.api,CDDL-GPL-2-CP
+platform,options.keymap,CDDL-GPL-2-CP
+platform,print,CDDL-GPL-2-CP
+platform,progress.ui,CDDL-GPL-2-CP
+platform,queries,CDDL-GPL-2-CP
+platform,sampler,CDDL-GPL-2-CP
+platform,sendopts,CDDL-GPL-2-CP
+platform,settings,CDDL-GPL-2-CP
+platform,spi.actions,CDDL-GPL-2-CP
+platform,spi.quicksearch,CDDL-GPL-2-CP
+platform,templates,CDDL-GPL-2-CP
+platform,templatesui,CDDL-GPL-2-CP
+platform,uihandler,CDDL-GPL-2-CP
+php,hudson.php,CDDL-GPL-2-CP
+php,languages.neon,CDDL-GPL-2-CP
+php,libs.javacup,CDDL-GPL-2-CP
+php,libs.javacup, JavaCUP-LICENSE
+php,php.api.annotation,CDDL-GPL-2-CP
+php,php.api.documentation,CDDL-GPL-2-CP
+php,php.api.editor,CDDL-GPL-2-CP
+php,php.api.executable,CDDL-GPL-2-CP
+php,php.api.framework,CDDL-GPL-2-CP
+php,php.api.phpmodule,CDDL-GPL-2-CP
+php,php.api.templates,CDDL-GPL-2-CP
+php,php.api.testing,CDDL-GPL-2-CP
+php,php.apigen,CDDL-GPL-2-CP
+php,php.atoum,CDDL-GPL-2-CP
+php,php.code.analysis,CDDL-GPL-2-CP
+php,php.codeception,CDDL-GPL-2-CP
+php,php.composer,CDDL-GPL-2-CP
+php,php.dbgp,CDDL-GPL-2-CP
+php,php.doctrine2,CDDL-GPL-2-CP
+php,php.editor,CDDL-GPL-2-CP
+php,php.editor, LGPL-2.1
+php,php.kit,CDDL-GPL-2-CP
+php,php.latte,CDDL-GPL-2-CP
+php,php.nette.tester,CDDL-GPL-2-CP
+php,php.nette2,CDDL-GPL-2-CP
+php,php.phing,CDDL-GPL-2-CP
+php,php.phpdoc,CDDL-GPL-2-CP
+php,php.phpdoc.documentation,CDDL-GPL-2-CP
+php,php.phpdoc.documentation, LGPL-2.1
+php,php.phpunit,CDDL-GPL-2-CP
+php,php.project,CDDL-GPL-2-CP
+php,php.project, CDDL-GPL-2-CP
+php,php.refactoring,CDDL-GPL-2-CP
+php,php.samples,CDDL-GPL-2-CP
+php,php.smarty,CDDL-GPL-2-CP
+php,php.symfony,CDDL-GPL-2-CP
+php,php.symfony2,CDDL-GPL-2-CP
+php,php.twig,CDDL-GPL-2-CP
+php,php.zend,CDDL-GPL-2-CP
+php,php.zend2,CDDL-GPL-2-CP
+php,selenium2.php,CDDL-GPL-2-CP
+php,spellchecker.bindings.php,CDDL-GPL-2-CP
+php,websvc.saas.codegen.php,CDDL-GPL-2-CP
+odcs,c.tasktop.c2c.server.cloud.api,CDDL-GPL-2-CP
+odcs,c.tasktop.c2c.server.cloud.api, EPL-v10
+odcs,c.tasktop.c2c.server.common.api,CDDL-GPL-2-CP
+odcs,c.tasktop.c2c.server.common.api, EPL-v10
+odcs,c.tasktop.c2c.server.profile.api,CDDL-GPL-2-CP
+odcs,c.tasktop.c2c.server.profile.api, EPL-v10
+odcs,c.tasktop.c2c.server.scm.api,CDDL-GPL-2-CP
+odcs,c.tasktop.c2c.server.scm.api, EPL-v10
+odcs,c.tasktop.c2c.server.tasks.api,CDDL-GPL-2-CP
+odcs,c.tasktop.c2c.server.tasks.api, EPL-v10
+odcs,c.tasktop.c2c.server.wiki.api,CDDL-GPL-2-CP
+odcs,c.tasktop.c2c.server.wiki.api, EPL-v10
+odcs,o.codehaus.jackson.core,CDDL-GPL-2-CP
+odcs,o.codehaus.jackson.core, Apache-2.0
+odcs,o.codehaus.jackson.mapper,CDDL-GPL-2-CP
+odcs,o.codehaus.jackson.mapper, Apache-2.0
+odcs,odcs,CDDL-GPL-2-CP
+odcs,odcs.git,CDDL-GPL-2-CP
+odcs,odcs.hudson,CDDL-GPL-2-CP
+odcs,odcs.kit,CDDL-GPL-2-CP
+odcs,odcs.tasks,CDDL-GPL-2-CP
+odcs,odcs.tasks.bridge,CDDL-GPL-2-CP
+odcs,odcs.ui,CDDL-GPL-2-CP
+odcs,odcs.versioning,CDDL-GPL-2-CP
+odcs,oracle.clouddev.server.profile.activity.client.api,CDDL-GPL-2-CP
+odcs,oracle.clouddev.server.profile.activity.client.api, EPL-v10
+odcs,oracle.clouddev.server.profile.activity.client.rest,CDDL-GPL-2-CP
+odcs,oracle.clouddev.server.profile.activity.client.rest, EPL-v10
+odcs,oracle.eclipse.tools.cloud.dev.tasks,CDDL-GPL-2-CP
+odcs,oracle.eclipse.tools.cloud.dev.tasks, Oracle BSD License
+odcs,team.server,CDDL-GPL-2-CP
+odcs,team.server.nb,CDDL-GPL-2-CP
+nb,autoupdate.pluginimporter,CDDL-GPL-2-CP
+nb,bugzilla.exceptionreporter,CDDL-GPL-2-CP
+nb,deadlock.detector,CDDL-GPL-2-CP
+nb,ide.branding,CDDL-GPL-2-CP
+nb,ide.branding.kit,CDDL-GPL-2-CP
+nb,o.n.upgrader,CDDL-GPL-2-CP
+nb,uihandler.exceptionreporter,CDDL-GPL-2-CP
+nb,updatecenters,CDDL-GPL-2-CP
+nb,welcome,CDDL-GPL-2-CP
+mobility,api.mobility,CDDL-GPL-2-CP
+mobility,j2me.common.ant,CDDL-GPL-2-CP
+mobility,j2me.keystore,CDDL-GPL-2-CP
+mobility,j2me.kit,CDDL-GPL-2-CP
+mobility,j2me.project,CDDL-GPL-2-CP
+mobility,mobility.cldcplatform,CDDL-GPL-2-CP
+mobility,mobility.databindingme,CDDL-GPL-2-CP
+mobility,mobility.end2end,CDDL-GPL-2-CP
+mobility,mobility.jsr172,CDDL-GPL-2-CP
+mobility,mobility.licensing,CDDL-GPL-2-CP
+mobility,mobility.project.ant,CDDL-GPL-2-CP
+jira,c.atlassian.connector.eclipse.commons.core,CDDL-GPL-2-CP
+jira,c.atlassian.connector.eclipse.commons.core, EPL-v10
+jira,c.atlassian.connector.eclipse.jira.core,CDDL-GPL-2-CP
+jira,c.atlassian.connector.eclipse.jira.core, EPL-v10
+jira,c.atlassian.connector.eclipse.jira.core.rest,CDDL-GPL-2-CP
+jira,c.atlassian.connector.eclipse.jira.core.rest, EPL-v10
+jira,c.s.jersey,CDDL-GPL-2-CP
+jira,c.s.jersey, CDDL-GPL-2-CP
+jira,c.s.mail.javax.mail,CDDL-GPL-2-CP
+jira,c.s.mail.javax.mail, CDDL 1.0
+jira,javax.servlet,CDDL-GPL-2-CP
+jira,javax.servlet, Apache-2.0
+jira,javax.wsdl,CDDL-GPL-2-CP
+jira,javax.wsdl,CPL-1
+jira,javax.wsdl, CPL
+jira,javax.xml.rpc,CDDL-GPL-2-CP
+jira,javax.xml.rpc, CDDL-GPL-2-CP
+jira,javax.xml.soap,CDDL-GPL-2-CP
+jira,javax.xml.soap, CDDL-GPL-2-CP
+jira,jira,CDDL-GPL-2-CP
+jira,jira.rest,CDDL-GPL-2-CP
+jira,jira.xmlrpc,CDDL-GPL-2-CP
+jira,libs.jira.rest,Apache-2
+jira,libs.jira.rest,CDDL-GPL-2-CP
+jira,libs.jira.rest, Apache-2.0
+jira,o.apache.axis,CDDL-GPL-2-CP
+jira,o.apache.axis, Apache Software License, Version 2.0
+jira,o.apache.commons.discovery,CDDL-GPL-2-CP
+jira,o.apache.commons.discovery, Apache 1.1
+jira,o.codehaus.jettison,CDDL-GPL-2-CP
+jira,o.codehaus.jettison, Apache-2.0
+jira,o.eclipse.mylyn.commons.soap,CDDL-GPL-2-CP
+jira,o.eclipse.mylyn.commons.soap, EPL-v10
+jira,o.eclipse.mylyn.monitor.ui.dummy,CDDL-GPL-2-CP
+jira,o.joda.time,CDDL-GPL-2-CP
+jira,o.joda.time, Apache-2.0
+javafx,javafx2.editor,CDDL-GPL-2-CP
+javafx,javafx2.kit,CDDL-GPL-2-CP
+javafx,javafx2.platform,CDDL-GPL-2-CP
+javafx,javafx2.project,CDDL-GPL-2-CP
+javafx,javafx2.samples,CDDL-GPL-2-CP
+javafx,javafx2.scenebuilder,CDDL-GPL-2-CP
+javacard,javacard.apdu.io,CDDL-GPL-2-CP
+javacard,javacard.apdu.io, Sun Technology Evaluation License
+javacard,javacard.apdufile,CDDL-GPL-2-CP
+javacard,javacard.common,CDDL-GPL-2-CP
+javacard,javacard.console,CDDL-GPL-2-CP
+javacard,javacard.filemodels,CDDL-GPL-2-CP
+javacard,javacard.kit,CDDL-GPL-2-CP
+javacard,javacard.oberthur,CDDL-GPL-2-CP
+javacard,javacard.platform.ui,CDDL-GPL-2-CP
+javacard,javacard.project,CDDL-GPL-2-CP
+javacard,javacard.ri.bundle,CDDL-GPL-2-CP
+javacard,javacard.ri.bundle, License Agreement for Java Card Development Kit 3.0.2 Revenue Release
+javacard,javacard.ri.platform,CDDL-GPL-2-CP
+javacard,javacard.spi,CDDL-GPL-2-CP
+javacard,properties.based.dataobjects,CDDL-GPL-2-CP
+javacard,simple.project.templates,CDDL-GPL-2-CP
+javacard,swing.customizerlayout,CDDL-GPL-2-CP
+java,ant.browsetask,CDDL-GPL-2-CP
+java,ant.debugger,CDDL-GPL-2-CP
+java,ant.freeform,CDDL-GPL-2-CP
+java,ant.grammar,CDDL-GPL-2-CP
+java,ant.kit,CDDL-GPL-2-CP
+java,api.debugger.jpda,CDDL-GPL-2-CP
+java,api.java,CDDL-GPL-2-CP
+java,api.maven,CDDL-GPL-2-CP
+java,beans,CDDL-GPL-2-CP
+java,classfile,CDDL-GPL-2-CP
+java,dbschema,CDDL-GPL-2-CP
+java,debugger.jpda,CDDL-GPL-2-CP
+java,debugger.jpda.ant,CDDL-GPL-2-CP
+java,debugger.jpda.js,CDDL-GPL-2-CP
+java,debugger.jpda.jsui,CDDL-GPL-2-CP
+java,debugger.jpda.kit,CDDL-GPL-2-CP
+java,debugger.jpda.projects,CDDL-GPL-2-CP
+java,debugger.jpda.projectsui,CDDL-GPL-2-CP
+java,debugger.jpda.ui,CDDL-GPL-2-CP
+java,debugger.jpda.visual,CDDL-GPL-2-CP
+java,findbugs.installer,CDDL-GPL-2-CP
+java,form,CDDL-GPL-2-CP
+java,form.binding,CDDL-GPL-2-CP
+java,form.j2ee,CDDL-GPL-2-CP
+java,form.kit,CDDL-GPL-2-CP
+java,form.nb,CDDL-GPL-2-CP
+java,form.refactoring,CDDL-GPL-2-CP
+java,hibernate,CDDL-GPL-2-CP
+java,hibernate4lib,CDDL-GPL-2-CP
+java,hibernate4lib, LGPL-2.1
+java,hudson.ant,CDDL-GPL-2-CP
+java,hudson.maven,CDDL-GPL-2-CP
+java,i18n,CDDL-GPL-2-CP
+java,i18n.form,CDDL-GPL-2-CP
+java,j2ee.core.utilities,CDDL-GPL-2-CP
+java,j2ee.eclipselink,CDDL-GPL-2-CP
+java,j2ee.eclipselinkmodelgen,CDDL-GPL-2-CP
+java,j2ee.jpa.refactoring,CDDL-GPL-2-CP
+java,j2ee.jpa.verification,CDDL-GPL-2-CP
+java,j2ee.metadata,CDDL-GPL-2-CP
+java,j2ee.metadata.model.support,CDDL-GPL-2-CP
+java,j2ee.persistence,CDDL-GPL-2-CP
+java,j2ee.persistence.kit,CDDL-GPL-2-CP
+java,j2ee.persistenceapi,CDDL-GPL-2-CP
+java,java.api.common,CDDL-GPL-2-CP
+java,java.completion,CDDL-GPL-2-CP
+java,java.debug,CDDL-GPL-2-CP
+java,java.editor,CDDL-GPL-2-CP
+java,java.editor.base,CDDL-GPL-2-CP
+java,java.editor.lib,CDDL-GPL-2-CP
+java,java.examples,CDDL-GPL-2-CP
+java,java.freeform,CDDL-GPL-2-CP
+java,java.guards,CDDL-GPL-2-CP
+java,java.hints,CDDL-GPL-2-CP
+java,java.hints.declarative,CDDL-GPL-2-CP
+java,java.hints.declarative.test,CDDL-GPL-2-CP
+java,java.hints.legacy.spi,CDDL-GPL-2-CP
+java,java.hints.test,CDDL-GPL-2-CP
+java,java.hints.ui,CDDL-GPL-2-CP
+java,java.j2sedeploy,CDDL-GPL-2-CP
+java,java.j2seembedded,CDDL-GPL-2-CP
+java,java.j2seplatform,CDDL-GPL-2-CP
+java,java.j2seprofiles,CDDL-GPL-2-CP
+java,java.j2seproject,CDDL-GPL-2-CP
+java,java.kit,CDDL-GPL-2-CP
+java,java.lexer,CDDL-GPL-2-CP
+java,java.metrics,CDDL-GPL-2-CP
+java,java.navigation,CDDL-GPL-2-CP
+java,java.platform,CDDL-GPL-2-CP
+java,java.platform.ui,CDDL-GPL-2-CP
+java,java.preprocessorbridge,CDDL-GPL-2-CP
+java,java.project,CDDL-GPL-2-CP
+java,java.project.ui,CDDL-GPL-2-CP
+java,java.source,CDDL-GPL-2-CP
+java,java.source.ant,CDDL-GPL-2-CP
+java,java.source.base,CDDL-GPL-2-CP
+java,java.source.compat8,CDDL-GPL-2-CP
+java,java.source.queries,CDDL-GPL-2-CP
+java,java.source.queriesimpl,CDDL-GPL-2-CP
+java,java.sourceui,CDDL-GPL-2-CP
+java,java.testrunner,CDDL-GPL-2-CP
+java,java.testrunner.ant,CDDL-GPL-2-CP
+java,java.testrunner.ui,CDDL-GPL-2-CP
+java,javadoc,CDDL-GPL-2-CP
+java,javaee.injection,CDDL-GPL-2-CP
+java,javawebstart,CDDL-GPL-2-CP
+java,jellytools.java,CDDL-GPL-2-CP
+java,junit,CDDL-GPL-2-CP
+java,junit.ant,CDDL-GPL-2-CP
+java,junit.ant.ui,CDDL-GPL-2-CP
+java,junit.ui,CDDL-GPL-2-CP
+java,lib.nbjavac,CDDL-GPL-2-CP
+java,libs.cglib,CDDL-GPL-2-CP
+java,libs.cglib, Apache-2.0
+java,libs.javacapi,CDDL-GPL-2-CP
+java,libs.javacapi, GPL-2-CP
+java,libs.javacimpl,CDDL-GPL-2-CP
+java,libs.javacimpl, GPL-2-CP
+java,libs.springframework,CDDL-GPL-2-CP
+java,libs.springframework, Apache-2.0
+java,libs.springframework, Apache-2.0
+java,maven,CDDL-GPL-2-CP
+java,maven.checkstyle,CDDL-GPL-2-CP
+java,maven.coverage,CDDL-GPL-2-CP
+java,maven.embedder,CDDL-GPL-2-CP
+java,maven.embedder, Apache-JDOM
+java,maven.embedder, Apache-2.0
+java,maven.embedder, Apache-2.0
+java,maven.embedder, Apache-2.0
+java,maven.embedder, Apache-2.0
+java,maven.embedder, Apache-2.0
+java,maven.grammar,CDDL-GPL-2-CP
+java,maven.graph,CDDL-GPL-2-CP
+java,maven.hints,CDDL-GPL-2-CP
+java,maven.indexer,CDDL-GPL-2-CP
+java,maven.indexer, Apache-2.0
+java,maven.indexer, Apache-2.0
+java,maven.indexer, Apache-2.0
+java,maven.indexer.ui,CDDL-GPL-2-CP
+java,maven.junit,CDDL-GPL-2-CP
+java,maven.junit.ui,CDDL-GPL-2-CP
+java,maven.kit,CDDL-GPL-2-CP
+java,maven.model,CDDL-GPL-2-CP
+java,maven.osgi,CDDL-GPL-2-CP
+java,maven.persistence,CDDL-GPL-2-CP
+java,maven.refactoring,CDDL-GPL-2-CP
+java,maven.repository,CDDL-GPL-2-CP
+java,maven.search,CDDL-GPL-2-CP
+java,maven.spring,CDDL-GPL-2-CP
+java,nashorn.execution,CDDL-GPL-2-CP
+java,o.jdesktop.beansbinding,CDDL-GPL-2-CP
+java,o.jdesktop.beansbinding, LGPL-2.1
+java,performance,CDDL-GPL-2-CP
+java,performance, BSD
+java,performance.java,CDDL-GPL-2-CP
+java,projectimport.eclipse.core,CDDL-GPL-2-CP
+java,projectimport.eclipse.j2se,CDDL-GPL-2-CP
+java,refactoring.java,CDDL-GPL-2-CP
+java,selenium2.java,CDDL-GPL-2-CP
+java,selenium2.maven,CDDL-GPL-2-CP
+java,spellchecker.bindings.java,CDDL-GPL-2-CP
+java,spi.debugger.jpda.ui,CDDL-GPL-2-CP
+java,spi.java.hints,CDDL-GPL-2-CP
+java,spring.beans,CDDL-GPL-2-CP
+java,testng,CDDL-GPL-2-CP
+java,testng.ant,CDDL-GPL-2-CP
+java,testng.maven,CDDL-GPL-2-CP
+java,testng.ui,CDDL-GPL-2-CP
+java,websvc.jaxws21,CDDL-GPL-2-CP
+java,websvc.jaxws21, CDDL-GPL-2-CP
+java,websvc.jaxws21api,CDDL-GPL-2-CP
+java,websvc.jaxws21api, CDDL-1.1, GPLv2
+java,websvc.saas.codegen.java,CDDL-GPL-2-CP
+java,whitelist,CDDL-GPL-2-CP
+java,xml.jaxb,CDDL-GPL-2-CP
+java,xml.tools.java,CDDL-GPL-2-CP
+identity,identity.ant,CDDL-GPL-2-CP
+identity,identity.kit,CDDL-GPL-2-CP
+identity,identity.profile.api,CDDL-GPL-2-CP
+identity,identity.profile.ui,CDDL-GPL-2-CP
+identity,identity.samples,CDDL-GPL-2-CP
+identity,identity.server.manager,CDDL-GPL-2-CP
+ide,api.debugger,CDDL-GPL-2-CP
+ide,api.java.classpath,CDDL-GPL-2-CP
+ide,api.xml,CDDL-GPL-2-CP
+ide,api.xml.ui,CDDL-GPL-2-CP
+ide,bugtracking,CDDL-GPL-2-CP
+ide,bugtracking.bridge,CDDL-GPL-2-CP
+ide,bugtracking.commons,CDDL-GPL-2-CP
+ide,bugzilla,CDDL-GPL-2-CP
+ide,c.google.guava,CDDL-GPL-2-CP
+ide,c.google.guava, Apache-2.0
+ide,c.googlecode.javaewah.JavaEWAH,CDDL-GPL-2-CP
+ide,c.googlecode.javaewah.JavaEWAH, Apache License 2.0
+ide,c.jcraft.jsch,CDDL-GPL-2-CP
+ide,c.jcraft.jsch, BSD-jsch-variant
+ide,c.jcraft.jzlib,CDDL-GPL-2-CP
+ide,c.jcraft.jzlib, BSD-jzlib-variant
+ide,code.analysis,CDDL-GPL-2-CP
+ide,core.browser,CDDL-GPL-2-CP
+ide,core.browser.webview,CDDL-GPL-2-CP
+ide,core.ide,CDDL-GPL-2-CP
+ide,core.multitabs.project,CDDL-GPL-2-CP
+ide,csl.api,CDDL-GPL-2-CP
+ide,csl.types,CDDL-GPL-2-CP
+ide,css.editor,CDDL-GPL-2-CP
+ide,css.editor, W3C (the original at http://www.w3.org/TR/CSS21/)
+ide,css.editor, W3C (the original at http://www.w3.org/Style/CSS/current-work)
+ide,css.lib,CDDL-GPL-2-CP
+ide,css.model,CDDL-GPL-2-CP
+ide,css.prep,CDDL-GPL-2-CP
+ide,css.visual,CDDL-GPL-2-CP
+ide,db,CDDL-GPL-2-CP
+ide,db, Apache-2.0
+ide,db.core,CDDL-GPL-2-CP
+ide,db.dataview,CDDL-GPL-2-CP
+ide,db.drivers,CDDL-GPL-2-CP
+ide,db.drivers, GPL
+ide,db.drivers, BSD-postgresql
+ide,db.kit,CDDL-GPL-2-CP
+ide,db.metadata.model,CDDL-GPL-2-CP
+ide,db.mysql,CDDL-GPL-2-CP
+ide,db.sql.editor,CDDL-GPL-2-CP
+ide,db.sql.visualeditor,CDDL-GPL-2-CP
+ide,db.sql.visualeditor, BSD
+ide,dbapi,CDDL-GPL-2-CP
+ide,defaults,CDDL-GPL-2-CP
+ide,derby,CDDL-GPL-2-CP
+ide,diff,CDDL-GPL-2-CP
+ide,dlight.nativeexecution,CDDL-GPL-2-CP
+ide,dlight.nativeexecution, TBD
+ide,dlight.nativeexecution.nb,CDDL-GPL-2-CP
+ide,dlight.terminal,CDDL-GPL-2-CP
+ide,docker.api,CDDL-GPL-2-CP
+ide,docker.editor,CDDL-GPL-2-CP
+ide,docker.ui,CDDL-GPL-2-CP
+ide,editor,CDDL-GPL-2-CP
+ide,editor.actions,CDDL-GPL-2-CP
+ide,editor.bookmarks,CDDL-GPL-2-CP
+ide,editor.bracesmatching,CDDL-GPL-2-CP
+ide,editor.breadcrumbs,CDDL-GPL-2-CP
+ide,editor.codetemplates,CDDL-GPL-2-CP
+ide,editor.completion,CDDL-GPL-2-CP
+ide,editor.deprecated.pre65formatting,CDDL-GPL-2-CP
+ide,editor.document,CDDL-GPL-2-CP
+ide,editor.errorstripe,CDDL-GPL-2-CP
+ide,editor.errorstripe.api,CDDL-GPL-2-CP
+ide,editor.fold,CDDL-GPL-2-CP
+ide,editor.fold.nbui,CDDL-GPL-2-CP
+ide,editor.global.format,CDDL-GPL-2-CP
+ide,editor.guards,CDDL-GPL-2-CP
+ide,editor.indent,CDDL-GPL-2-CP
+ide,editor.indent.project,CDDL-GPL-2-CP
+ide,editor.indent.support,CDDL-GPL-2-CP
+ide,editor.kit,CDDL-GPL-2-CP
+ide,editor.lib,CDDL-GPL-2-CP
+ide,editor.lib2,CDDL-GPL-2-CP
+ide,editor.macros,CDDL-GPL-2-CP
+ide,editor.plain,CDDL-GPL-2-CP
+ide,editor.plain.lib,CDDL-GPL-2-CP
+ide,editor.search,CDDL-GPL-2-CP
+ide,editor.settings,CDDL-GPL-2-CP
+ide,editor.settings.lib,CDDL-GPL-2-CP
+ide,editor.settings.storage,CDDL-GPL-2-CP
+ide,editor.structure,CDDL-GPL-2-CP
+ide,editor.tools.storage,CDDL-GPL-2-CP
+ide,editor.util,CDDL-GPL-2-CP
+ide,extbrowser,CDDL-GPL-2-CP
+ide,extexecution,CDDL-GPL-2-CP
+ide,extexecution.base,CDDL-GPL-2-CP
+ide,extexecution.impl,CDDL-GPL-2-CP
+ide,extexecution.process,CDDL-GPL-2-CP
+ide,extexecution.process, MIT
+ide,extexecution.process, MIT
+ide,extexecution.process, MIT
+ide,extexecution.process.jdk9,CDDL-GPL-2-CP
+ide,git,CDDL-GPL-2-CP
+ide,gototest,CDDL-GPL-2-CP
+ide,gsf.codecoverage,CDDL-GPL-2-CP
+ide,gsf.testrunner,CDDL-GPL-2-CP
+ide,gsf.testrunner.ui,CDDL-GPL-2-CP
+ide,html,CDDL-GPL-2-CP
+ide,html.custom,CDDL-GPL-2-CP
+ide,html.editor,CDDL-GPL-2-CP
+ide,html.editor, W3C (the original at http://www.w3.org/TR/1999/REC-html401-19991224/)
+ide,html.editor.lib,CDDL-GPL-2-CP
+ide,html.lexer,CDDL-GPL-2-CP
+ide,html.parser,CDDL-GPL-2-CP
+ide,html.parser, HTML5DOC
+ide,html.parser, MIT-html5-parser
+ide,html.parser, MIT-icu4j
+ide,html.validation,CDDL-GPL-2-CP
+ide,html.validation, MIT-html5-datatypes
+ide,html.validation, Apache-2.0
+ide,html.validation, BSD-iri
+ide,html.validation, MIT-isorelax
+ide,html.validation, BSD-jing
+ide,html.validation, Apache-2.0
+ide,html.validation, MIT-non-schema
+ide,html.validation, MPL-1.0
+ide,html.validation, MIT-validator
+ide,httpserver,CDDL-GPL-2-CP
+ide,httpserver, Apache-1.1
+ide,hudson,CDDL-GPL-2-CP
+ide,hudson.git,CDDL-GPL-2-CP
+ide,hudson.mercurial,CDDL-GPL-2-CP
+ide,hudson.subversion,CDDL-GPL-2-CP
+ide,hudson.tasklist,CDDL-GPL-2-CP
+ide,hudson.ui,CDDL-GPL-2-CP
+ide,ide.kit,CDDL-GPL-2-CP
+ide,image,CDDL-GPL-2-CP
+ide,javascript2.debug,CDDL-GPL-2-CP
+ide,javascript2.debug.ui,CDDL-GPL-2-CP
+ide,jellytools.ide,CDDL-GPL-2-CP
+ide,jumpto,CDDL-GPL-2-CP
+ide,languages,CDDL-GPL-2-CP
+ide,languages.diff,CDDL-GPL-2-CP
+ide,languages.manifest,CDDL-GPL-2-CP
+ide,languages.yaml,CDDL-GPL-2-CP
+ide,lexer,CDDL-GPL-2-CP
+ide,lexer.nbbridge,CDDL-GPL-2-CP
+ide,lib.terminalemulator,CDDL-GPL-2-CP
+ide,libs.antlr3.runtime,CDDL-GPL-2-CP
+ide,libs.antlr3.runtime, BSD-antlr-runtime
+ide,libs.antlr4.runtime,CDDL-GPL-2-CP
+ide,libs.antlr4.runtime, BSD-antlr
+ide,libs.bytelist,CDDL-GPL-2-CP
+ide,libs.bytelist, LGPL-2.1
+ide,libs.commons_compress,CDDL-GPL-2-CP
+ide,libs.commons_compress, Apache-2.0
+ide,libs.commons_net,CDDL-GPL-2-CP
+ide,libs.commons_net, Apache-2.0
+ide,libs.freemarker,CDDL-GPL-2-CP
+ide,libs.freemarker, freemarker
+ide,libs.git,CDDL-GPL-2-CP
+ide,libs.ini4j,CDDL-GPL-2-CP
+ide,libs.ini4j, Apache-2.0
+ide,libs.jaxb,CDDL-GPL-2-CP
+ide,libs.jaxb, CDDL-GPL-2-CP
+ide,libs.jsch.agentproxy,CDDL-GPL-2-CP
+ide,libs.jsch.agentproxy, BSD-jsch-agent-proxy
+ide,libs.jsch.agentproxy, BSD-jsch-agent-proxy
+ide,libs.jsch.agentproxy, BSD-jsch-agent-proxy
+ide,libs.jsch.agentproxy, BSD-jsch-agent-proxy
+ide,libs.json_simple,CDDL-GPL-2-CP
+ide,libs.json_simple, Apache-2.0
+ide,libs.jvyamlb,CDDL-GPL-2-CP
+ide,libs.jvyamlb, MIT-jvyamlb
+ide,libs.lucene,CDDL-GPL-2-CP
+ide,libs.lucene, Apache-2.0
+ide,libs.smack,CDDL-GPL-2-CP
+ide,libs.smack, Apache-2.0
+ide,libs.svnClientAdapter,CDDL-GPL-2-CP
+ide,libs.svnClientAdapter, Apache-2.0
+ide,libs.svnClientAdapter.javahl,CDDL-GPL-2-CP
+ide,libs.svnClientAdapter.javahl, Apache-2.0
+ide,libs.svnClientAdapter.javahl, Apache-2.0
+ide,libs.svnClientAdapter.svnkit,CDDL-GPL-2-CP
+ide,libs.svnClientAdapter.svnkit, TRILEAD-LICENSE
+ide,libs.svnClientAdapter.svnkit, TMate
+ide,libs.svnClientAdapter.svnkit, TMate
+ide,libs.svnClientAdapter.svnkit, Apache-2.0
+ide,libs.swingx,CDDL-GPL-2-CP
+ide,libs.swingx, LGPL-2.1
+ide,libs.xerces,CDDL-GPL-2-CP
+ide,libs.xerces, Apache-2.0
+ide,localhistory,CDDL-GPL-2-CP
+ide,localtasks,CDDL-GPL-2-CP
+ide,mercurial,CDDL-GPL-2-CP
+ide,mylyn.util,CDDL-GPL-2-CP
+ide,notifications,CDDL-GPL-2-CP
+ide,o.apache.commons.codec,CDDL-GPL-2-CP
+ide,o.apache.commons.codec, Apache-2.0
+ide,o.apache.commons.httpclient,CDDL-GPL-2-CP
+ide,o.apache.commons.httpclient, Apache-2.0
+ide,o.apache.commons.io,CDDL-GPL-2-CP
+ide,o.apache.commons.io, Apache-2.0
+ide,o.apache.commons.lang,CDDL-GPL-2-CP
+ide,o.apache.commons.lang, Apache-2.0
+ide,o.apache.commons.logging,CDDL-GPL-2-CP
+ide,o.apache.commons.logging, Apache-2.0
+ide,o.apache.ws.commons.util,CDDL-GPL-2-CP
+ide,o.apache.ws.commons.util, Apache-2.0
+ide,o.apache.xml.resolver,CDDL-GPL-2-CP
+ide,o.apache.xml.resolver, Apache-2.0
+ide,o.apache.xmlrpc,CDDL-GPL-2-CP
+ide,o.apache.xmlrpc, Apache-2.0
+ide,o.apache.xmlrpc, Apache-2.0
+ide,o.apache.xmlrpc, Apache-2.0
+ide,o.eclipse.core.contenttype,CDDL-GPL-2-CP
+ide,o.eclipse.core.contenttype, EPL-v10
+ide,o.eclipse.core.jobs,CDDL-GPL-2-CP
+ide,o.eclipse.core.jobs, EPL-v10
+ide,o.eclipse.core.net,CDDL-GPL-2-CP
+ide,o.eclipse.core.net, EPL-v10
+ide,o.eclipse.core.runtime,CDDL-GPL-2-CP
+ide,o.eclipse.core.runtime, EPL-v10
+ide,o.eclipse.core.runtime.compatibility.auth,CDDL-GPL-2-CP
+ide,o.eclipse.core.runtime.compatibility.auth, EPL-v10
+ide,o.eclipse.equinox.app,CDDL-GPL-2-CP
+ide,o.eclipse.equinox.app, EPL-v10-equinox-app
+ide,o.eclipse.equinox.common,CDDL-GPL-2-CP
+ide,o.eclipse.equinox.common, EPL-v10
+ide,o.eclipse.equinox.preferences,CDDL-GPL-2-CP
+ide,o.eclipse.equinox.preferences, EPL-v10-equinox-preferences
+ide,o.eclipse.equinox.registry,CDDL-GPL-2-CP
+ide,o.eclipse.equinox.registry, EPL-v10-equinox-registry
+ide,o.eclipse.equinox.security,CDDL-GPL-2-CP
+ide,o.eclipse.equinox.security, EPL-v10
+ide,o.eclipse.jgit,CDDL-GPL-2-CP
+ide,o.eclipse.jgit, EDL-v10-jgit
+ide,o.eclipse.jgit.java7,CDDL-GPL-2-CP
+ide,o.eclipse.jgit.java7, EDL-v10-jgit
+ide,o.eclipse.mylyn.bugzilla.core,CDDL-GPL-2-CP
+ide,o.eclipse.mylyn.bugzilla.core, EPL-v10
+ide,o.eclipse.mylyn.commons.core,CDDL-GPL-2-CP
+ide,o.eclipse.mylyn.commons.core, EPL-v10
+ide,o.eclipse.mylyn.commons.net,CDDL-GPL-2-CP
+ide,o.eclipse.mylyn.commons.net, EPL-v10
+ide,o.eclipse.mylyn.commons.repositories.core,CDDL-GPL-2-CP
+ide,o.eclipse.mylyn.commons.repositories.core, EPL-v10
+ide,o.eclipse.mylyn.commons.xmlrpc,CDDL-GPL-2-CP
+ide,o.eclipse.mylyn.commons.xmlrpc, EPL-v10
+ide,o.eclipse.mylyn.tasks.core,CDDL-GPL-2-CP
+ide,o.eclipse.mylyn.tasks.core, EPL-v10
+ide,o.eclipse.mylyn.wikitext.confluence.core,CDDL-GPL-2-CP
+ide,o.eclipse.mylyn.wikitext.confluence.core, EPL-v10
+ide,o.eclipse.mylyn.wikitext.core,CDDL-GPL-2-CP
+ide,o.eclipse.mylyn.wikitext.core, EPL-v10 (see also about.html inside this JAR file)
+ide,o.eclipse.mylyn.wikitext.markdown.core,CDDL-GPL-2-CP
+ide,o.eclipse.mylyn.wikitext.markdown.core, EPL-v10
+ide,o.eclipse.mylyn.wikitext.textile.core,CDDL-GPL-2-CP
+ide,o.eclipse.mylyn.wikitext.textile.core, EPL-v10
+ide,o.n.swing.dirchooser,CDDL-GPL-2-CP
+ide,o.openidex.util,CDDL-GPL-2-CP
+ide,options.editor,CDDL-GPL-2-CP
+ide,parsing.api,CDDL-GPL-2-CP
+ide,parsing.indexing,CDDL-GPL-2-CP
+ide,parsing.lucene,CDDL-GPL-2-CP
+ide,parsing.nb,CDDL-GPL-2-CP
+ide,parsing.ui,CDDL-GPL-2-CP
+ide,print.editor,CDDL-GPL-2-CP
+ide,project.ant,CDDL-GPL-2-CP
+ide,project.ant.compat8,CDDL-GPL-2-CP
+ide,project.ant.ui,CDDL-GPL-2-CP
+ide,project.indexingbridge,CDDL-GPL-2-CP
+ide,project.libraries,CDDL-GPL-2-CP
+ide,project.libraries.ui,CDDL-GPL-2-CP
+ide,project.spi.intern,CDDL-GPL-2-CP
+ide,project.spi.intern.impl,CDDL-GPL-2-CP
+ide,projectapi,CDDL-GPL-2-CP
+ide,projectapi.nb,CDDL-GPL-2-CP
+ide,projectui,CDDL-GPL-2-CP
+ide,projectui.buildmenu,CDDL-GPL-2-CP
+ide,projectuiapi,CDDL-GPL-2-CP
+ide,projectuiapi.base,CDDL-GPL-2-CP
+ide,properties,CDDL-GPL-2-CP
+ide,properties.syntax,CDDL-GPL-2-CP
+ide,refactoring.api,CDDL-GPL-2-CP
+ide,schema2beans,CDDL-GPL-2-CP
+ide,selenium2,CDDL-GPL-2-CP
+ide,selenium2.server,CDDL-GPL-2-CP
+ide,server,CDDL-GPL-2-CP
+ide,servletapi,CDDL-GPL-2-CP
+ide,servletapi, Apache-1.1
+ide,spellchecker,CDDL-GPL-2-CP
+ide,spellchecker.apimodule,CDDL-GPL-2-CP
+ide,spellchecker.bindings.htmlxml,CDDL-GPL-2-CP
+ide,spellchecker.bindings.properties,CDDL-GPL-2-CP
+ide,spellchecker.dictionary_en,CDDL-GPL-2-CP
+ide,spellchecker.dictionary_en, BSD-ispell-enwl
+ide,spellchecker.kit,CDDL-GPL-2-CP
+ide,spi.debugger.ui,CDDL-GPL-2-CP
+ide,spi.editor.hints,CDDL-GPL-2-CP
+ide,spi.editor.hints.projects,CDDL-GPL-2-CP
+ide,spi.navigator,CDDL-GPL-2-CP
+ide,spi.palette,CDDL-GPL-2-CP
+ide,spi.tasklist,CDDL-GPL-2-CP
+ide,spi.viewmodel,CDDL-GPL-2-CP
+ide,subversion,CDDL-GPL-2-CP
+ide,swing.validation,CDDL-GPL-2-CP
+ide,swing.validation, CDDL-GPL-2-CP
+ide,target.iterator,CDDL-GPL-2-CP
+ide,tasklist.kit,CDDL-GPL-2-CP
+ide,tasklist.projectint,CDDL-GPL-2-CP
+ide,tasklist.todo,CDDL-GPL-2-CP
+ide,tasklist.ui,CDDL-GPL-2-CP
+ide,team.commons,CDDL-GPL-2-CP
+ide,team.ide,CDDL-GPL-2-CP
+ide,terminal,CDDL-GPL-2-CP
+ide,terminal.nb,CDDL-GPL-2-CP
+ide,usersguide,CDDL-GPL-2-CP
+ide,utilities,CDDL-GPL-2-CP
+ide,utilities.project,CDDL-GPL-2-CP
+ide,versioning,CDDL-GPL-2-CP
+ide,versioning.core,CDDL-GPL-2-CP
+ide,versioning.indexingbridge,CDDL-GPL-2-CP
+ide,versioning.masterfs,CDDL-GPL-2-CP
+ide,versioning.system.cvss.installer,CDDL-GPL-2-CP
+ide,versioning.ui,CDDL-GPL-2-CP
+ide,versioning.util,CDDL-GPL-2-CP
+ide,web.browser.api,CDDL-GPL-2-CP
+ide,web.common,CDDL-GPL-2-CP
+ide,web.common.ui,CDDL-GPL-2-CP
+ide,web.indent,CDDL-GPL-2-CP
+ide,web.webkit.debugging,CDDL-GPL-2-CP
+ide,xml,CDDL-GPL-2-CP
+ide,xml.axi,CDDL-GPL-2-CP
+ide,xml.catalog,CDDL-GPL-2-CP
+ide,xml.catalog.ui,CDDL-GPL-2-CP
+ide,xml.core,CDDL-GPL-2-CP
+ide,xml.jaxb.api,CDDL-GPL-2-CP
+ide,xml.jaxb.api, CDDL-1.1, GPLv2
+ide,xml.lexer,CDDL-GPL-2-CP
+ide,xml.multiview,CDDL-GPL-2-CP
+ide,xml.retriever,CDDL-GPL-2-CP
+ide,xml.schema.completion,CDDL-GPL-2-CP
+ide,xml.schema.model,CDDL-GPL-2-CP
+ide,xml.tax,CDDL-GPL-2-CP
+ide,xml.text,CDDL-GPL-2-CP
+ide,xml.tools,CDDL-GPL-2-CP
+ide,xml.wsdl.model,CDDL-GPL-2-CP
+ide,xml.xam,CDDL-GPL-2-CP
+ide,xml.xdm,CDDL-GPL-2-CP
+ide,xsl,CDDL-GPL-2-CP
+harness,apisupport.harness,CDDL-GPL-2-CP
+harness,apisupport.harness, Apache-2.0
+harness,apisupport.harness, MIT
+harness,apisupport.harness, GPL-2-CP
+harness,jellytools.platform,CDDL-GPL-2-CP
+harness,jemmy,CDDL-GPL-2-CP
+harness,libs.nbi.ant,CDDL-GPL-2-CP
+harness,libs.nbi.engine,CDDL-GPL-2-CP
+harness,nbjunit,CDDL-GPL-2-CP
+harness,o.n.insane,CDDL-GPL-2-CP
+groovy,groovy.antproject,CDDL-GPL-2-CP
+groovy,groovy.editor,CDDL-GPL-2-CP
+groovy,groovy.grails,CDDL-GPL-2-CP
+groovy,groovy.grailsproject,CDDL-GPL-2-CP
+groovy,groovy.gsp,CDDL-GPL-2-CP
+groovy,groovy.kit,CDDL-GPL-2-CP
+groovy,groovy.refactoring,CDDL-GPL-2-CP
+groovy,groovy.samples,CDDL-GPL-2-CP
+groovy,groovy.support,CDDL-GPL-2-CP
+groovy,libs.groovy,CDDL-GPL-2-CP
+groovy,libs.groovy, Apache-2.0, incl. groovy-ASM, groovy-ANTLR and groovy-COMMONS-CLI
+groovy,maven.groovy,CDDL-GPL-2-CP
+extide,o.apache.tools.ant.module,CDDL-GPL-2-CP
+extide,o.apache.tools.ant.module, Apache-2.0
+extide,options.java,CDDL-GPL-2-CP
+experimental,apisupport.apidocs,CDDL-GPL-2-CP
+experimental,avatar_js.project,CDDL-GPL-2-CP
+experimental,avatar_js.project, GPL-2-CP
+experimental,cloud.oracle,CDDL-GPL-2-CP
+experimental,db.mysql.sakila,CDDL-GPL-2-CP
+experimental,deployment.deviceanywhere,CDDL-GPL-2-CP
+experimental,findbugs,CDDL-GPL-2-CP
+experimental,j2me.cdc.kit,CDDL-GPL-2-CP
+experimental,j2me.cdc.platform,CDDL-GPL-2-CP
+experimental,j2me.cdc.platform.nokias80,CDDL-GPL-2-CP
+experimental,j2me.cdc.platform.ojec,CDDL-GPL-2-CP
+experimental,j2me.cdc.platform.semc,CDDL-GPL-2-CP
+experimental,j2me.cdc.platform.sjmc,CDDL-GPL-2-CP
+experimental,j2me.cdc.platform.sun,CDDL-GPL-2-CP
+experimental,j2me.cdc.project,CDDL-GPL-2-CP
+experimental,j2me.cdc.project.execui,CDDL-GPL-2-CP
+experimental,j2me.cdc.project.execuiimpl,CDDL-GPL-2-CP
+experimental,j2me.cdc.project.nokiaS80,CDDL-GPL-2-CP
+experimental,j2me.cdc.project.ojec,CDDL-GPL-2-CP
+experimental,j2me.cdc.project.savaje,CDDL-GPL-2-CP
+experimental,j2me.cdc.project.semc,CDDL-GPL-2-CP
+experimental,j2me.cdc.project.sjmc,CDDL-GPL-2-CP
+experimental,jconsole,CDDL-GPL-2-CP
+experimental,jmx,CDDL-GPL-2-CP
+experimental,jmx.common,CDDL-GPL-2-CP
+experimental,libs.aguiswinglayout,CDDL-GPL-2-CP
+experimental,libs.findbugs,CDDL-GPL-2-CP
+experimental,libs.findbugs, BSD
+experimental,libs.findbugs, Apache-2.0
+experimental,libs.findbugs, Apache-2.0
+experimental,libs.findbugs, DOM4J-BSD
+experimental,libs.findbugs, LGPL-2.1
+experimental,libs.findbugs, GPL
+experimental,libs.findbugs, BSD
+experimental,libs.findbugs, New BSD
+experimental,libs.oracle.cloud,CDDL-GPL-2-CP
+experimental,libs.oracle.cloud, CDDL-GPL-2-CP
+experimental,libs.ppawtlayout,CDDL-GPL-2-CP
+experimental,loadgenerator,CDDL-GPL-2-CP
+experimental,maven.util,CDDL-GPL-2-CP
+experimental,mobility.antext,CDDL-GPL-2-CP
+experimental,mobility.antext, Apache-2.0
+experimental,mobility.cldcplatform.catalog,CDDL-GPL-2-CP
+experimental,mobility.deployment.ftpscp,CDDL-GPL-2-CP
+experimental,mobility.deployment.nokia,CDDL-GPL-2-CP
+experimental,mobility.deployment.nokia,experimental,mobility.deployment.nokia,experimental,mobility.deployment.sonyericsson,CDDL-GPL-2-CP
+experimental,mobility.deployment.webdav,CDDL-GPL-2-CP
+experimental,mobility.deployment.webdav, Apache-2.0
+experimental,mobility.deployment.webdav, Apache-2.0
+experimental,mobility.deployment.webdav, Apache-2.0
+experimental,mobility.deployment.webdav, Apache-JDOM
+experimental,mobility.editor,CDDL-GPL-2-CP
+experimental,mobility.j2meunit,CDDL-GPL-2-CP
+experimental,mobility.j2meunit, Apache-2.0
+experimental,mobility.j2meunit, Apache-2.0
+experimental,mobility.kit,CDDL-GPL-2-CP
+experimental,mobility.plugins.mpowerplayer,CDDL-GPL-2-CP
+experimental,mobility.project,CDDL-GPL-2-CP
+experimental,mobility.project.bridge,CDDL-GPL-2-CP
+experimental,mobility.project.bridge.impl,CDDL-GPL-2-CP
+experimental,mobility.svgcore,CDDL-GPL-2-CP
+experimental,mvd,CDDL-GPL-2-CP
+experimental,o.apache.tools.ant.module.docs,CDDL-GPL-2-CP
+experimental,o.apache.tools.ant.module.docs, Apache-2.0
+experimental,o.n.swing.laf.dark,CDDL-GPL-2-CP
+experimental,profiler.commandrunner,CDDL-GPL-2-CP
+experimental,profiler.loadgen,CDDL-GPL-2-CP
+experimental,svg.perseus,CDDL-GPL-2-CP
+experimental,svg.perseus, Apache-2.0-Vera-Perseus
+experimental,swingapplib,CDDL-GPL-2-CP
+experimental,swingapplib,LGPL-2
+experimental,swingapplib, LGPL-2.1
+experimental,swingapplib, LGPL-2.1
+experimental,vmd.analyzer,CDDL-GPL-2-CP
+experimental,vmd.codegen,CDDL-GPL-2-CP
+experimental,vmd.components.midp,CDDL-GPL-2-CP
+experimental,vmd.components.midp.pda,CDDL-GPL-2-CP
+experimental,vmd.components.midp.wma,CDDL-GPL-2-CP
+experimental,vmd.components.svg,CDDL-GPL-2-CP
+experimental,vmd.componentssupport,CDDL-GPL-2-CP
+experimental,vmd.examples,CDDL-GPL-2-CP
+experimental,vmd.flow,CDDL-GPL-2-CP
+experimental,vmd.game,CDDL-GPL-2-CP
+experimental,vmd.inspector,CDDL-GPL-2-CP
+experimental,vmd.io,CDDL-GPL-2-CP
+experimental,vmd.io.javame,CDDL-GPL-2-CP
+experimental,vmd.kit,CDDL-GPL-2-CP
+experimental,vmd.midp,CDDL-GPL-2-CP
+experimental,vmd.midp.converter,CDDL-GPL-2-CP
+experimental,vmd.midpnb,CDDL-GPL-2-CP
+experimental,vmd.model,CDDL-GPL-2-CP
+experimental,vmd.palette,CDDL-GPL-2-CP
+experimental,vmd.properties,CDDL-GPL-2-CP
+experimental,vmd.screen,CDDL-GPL-2-CP
+experimental,vmd.structure,CDDL-GPL-2-CP
+experimental,clearcase,CDDL-GPL-2-CP
+experimental,coherence,CDDL-GPL-2-CP
+experimental,contrib/ant.freeform.samples,CDDL-GPL-2-CP
+experimental,contrib/api.workqueues,CDDL-GPL-2-CP
+experimental,contrib/apisupport.projectinspector,CDDL-GPL-2-CP
+experimental,contrib/autoproject.core,CDDL-GPL-2-CP
+experimental,contrib/autoproject.java,CDDL-GPL-2-CP
+experimental,contrib/autoproject.profiler,CDDL-GPL-2-CP
+experimental,contrib/autoproject.web,CDDL-GPL-2-CP
+experimental,contrib/cnd.debugger.gdbserver,CDDL-GPL-2-CP
+experimental,contrib/docbook,CDDL-GPL-2-CP
+experimental,contrib/docbook,experimental,contrib/docbook,experimental,contrib/docbook, MPL-1.0
+experimental,contrib/docbook,experimental,contrib/docbook,experimental,contrib/docbook.project,CDDL-GPL-2-CP
+experimental,contrib/imagepaste,CDDL-GPL-2-CP
+experimental,contrib/insertunicode,CDDL-GPL-2-CP
+experimental,contrib/insertunicode,experimental,contrib/j2ee.geronimo2,CDDL-GPL-2-CP
+experimental,contrib/j2ee.jetty,CDDL-GPL-2-CP
+experimental,contrib/logmanagement,CDDL-GPL-2-CP
+experimental,contrib/modulemanager,CDDL-GPL-2-CP
+experimental,contrib/quickfilechooser,CDDL-GPL-2-CP
+experimental,contrib/selenium,CDDL-GPL-2-CP
+experimental,contrib/selenium.maven,CDDL-GPL-2-CP
+experimental,contrib/selenium.php,CDDL-GPL-2-CP
+experimental,contrib/selenium.server,CDDL-GPL-2-CP
+experimental,o.apache.jmeter.module,CDDL-GPL-2-CP
+experimental,o.apache.jmeter.module,
+experimental,websvc.rest.wadl.design,CDDL-GPL-2-CP
+experimental,websvc.rest.wadl.model,CDDL-GPL-2-CP
+experimental,c.s.collablet,CDDL-GPL-2-CP
+experimental,c.s.collablet.moxc,CDDL-GPL-2-CP
+experimental,collab.channel.chat,CDDL-GPL-2-CP
+experimental,collab.channel.chat.html,CDDL-GPL-2-CP
+experimental,collab.channel.chat.java,CDDL-GPL-2-CP
+experimental,collab.channel.chat.text,CDDL-GPL-2-CP
+experimental,collab.channel.chat.xml,CDDL-GPL-2-CP
+experimental,collab.channel.filesharing,CDDL-GPL-2-CP
+experimental,collab.channel.output,CDDL-GPL-2-CP
+experimental,collab.kit,CDDL-GPL-2-CP
+experimental,collab.provider.im,CDDL-GPL-2-CP
+experimental,collab.provider.im,experimental,collab.provider.im, LGPL-2.1
+experimental,collab.provider.im,experimental,collab.provider.im,experimental,collab.provider.im,experimental,collab.ui,CDDL-GPL-2-CP
+experimental,contrib/a11y,CDDL-GPL-2-CP
+experimental,contrib/accelerators.terminal,CDDL-GPL-2-CP
+experimental,contrib/apisupport.beanbrowser,CDDL-GPL-2-CP
+experimental,contrib/archiver,CDDL-GPL-2-CP
+experimental,contrib/autosave,CDDL-GPL-2-CP
+contrib/c.ericsson.otp.erlang,N/A
+experimental,contrib/codetemplatetools,CDDL-GPL-2-CP
+experimental,contrib/de.hunsicker.jalopy.plugin.netbeans,CDDL-GPL-2-CP
+experimental,contrib/de.hunsicker.jalopy.plugin.netbeans,experimental,contrib/de.hunsicker.jalopy.plugin.netbeans,experimental,contrib/editor.deprecated.pre61completion,CDDL-GPL-2-CP
+experimental,contrib/editor.deprecated.pre61settings,CDDL-GPL-2-CP
+experimental,contrib/editor.fold.support,CDDL-GPL-2-CP
+experimental,contrib/editor.hints.i18n,CDDL-GPL-2-CP
+experimental,contrib/editor.nexterror,CDDL-GPL-2-CP
+experimental,contrib/encoding,CDDL-GPL-2-CP
+experimental,contrib/explorefromhere,CDDL-GPL-2-CP
+experimental,contrib/fisheye,CDDL-GPL-2-CP
+contrib/folder2html,N/A
+experimental,contrib/formatmany,CDDL-GPL-2-CP
+experimental,contrib/genericnavigator,CDDL-GPL-2-CP
+experimental,contrib/graphicclassview,CDDL-GPL-2-CP
+experimental,contrib/group,CDDL-GPL-2-CP
+experimental,contrib/gsf,CDDL-GPL-2-CP
+experimental,contrib/gsf.api,CDDL-GPL-2-CP
+experimental,contrib/gsfpath.api,CDDL-GPL-2-CP
+experimental,contrib/hexeditor,CDDL-GPL-2-CP
+experimental,contrib/htmlprojects,CDDL-GPL-2-CP
+experimental,contrib/j2ee.oc4j,CDDL-GPL-2-CP
+experimental,contrib/j2ee.sun.ws7,CDDL-GPL-2-CP
+experimental,contrib/java.ext.editor,CDDL-GPL-2-CP
+experimental,contrib/javahints,CDDL-GPL-2-CP
+experimental,contrib/javanavigators,CDDL-GPL-2-CP
+experimental,contrib/jemmysupport,CDDL-GPL-2-CP
+experimental,contrib/languages.execution,CDDL-GPL-2-CP
+contrib/languages.prolog,N/A
+experimental,contrib/languages.tcl,CDDL-GPL-2-CP
+experimental,contrib/languages.velocity,CDDL-GPL-2-CP
+experimental,contrib/libs.commons_lang,CDDL-GPL-2-CP
+experimental,contrib/libs.commons_lang, Apache-2.0
+experimental,contrib/libs.ical4j,CDDL-GPL-2-CP
+experimental,contrib/libs.ical4j,experimental,contrib/libs.ical4j,experimental,contrib/libs.jcalendar,CDDL-GPL-2-CP
+experimental,contrib/libs.jcalendar, LGPL-2.1
+experimental,contrib/licensechanger,CDDL-GPL-2-CP
+experimental,contrib/loaderswitcher,CDDL-GPL-2-CP
+experimental,contrib/moduleresolver,CDDL-GPL-2-CP
+experimental,contrib/mount,CDDL-GPL-2-CP
+experimental,contrib/nborgsourcebrowse,CDDL-GPL-2-CP
+contrib/o.jython,N/A
+contrib/o.jython.distro,N/A
+experimental,contrib/o.jython.distro, Jython
+contrib/o.n.contrib.debuggerretry,N/A
+experimental,contrib/o.n.erdbeans,CDDL-GPL-2-CP
+experimental,contrib/o.n.misc.diff,CDDL-GPL-2-CP
+experimental,contrib/performance.insane,CDDL-GPL-2-CP
+experimental,contrib/perspective,CDDL-GPL-2-CP
+contrib/python.console,N/A
+experimental,contrib/python.core,CDDL-GPL-2-CP
+experimental,contrib/python.debugger,CDDL-GPL-2-CP
+experimental,contrib/python.editor,CDDL-GPL-2-CP
+experimental,contrib/python.help,CDDL-GPL-2-CP
+experimental,contrib/python.kit,CDDL-GPL-2-CP
+contrib/python.options,N/A
+experimental,contrib/python.platform,CDDL-GPL-2-CP
+experimental,contrib/python.project,CDDL-GPL-2-CP
+experimental,contrib/python.samples,CDDL-GPL-2-CP
+experimental,contrib/python.testrunner,CDDL-GPL-2-CP
+experimental,contrib/showtodos,CDDL-GPL-2-CP
+experimental,contrib/sysprops,CDDL-GPL-2-CP
+experimental,contrib/tanui,CDDL-GPL-2-CP
+experimental,contrib/websvc.saas.services.rtm,CDDL-GPL-2-CP
+experimental,contrib/whichproject,CDDL-GPL-2-CP
+experimental,debugger.jpda.truffle,CDDL-GPL-2-CP
+experimental,debugger.jpda.truffle, GPL-2-CP
+experimental,debugger.jpda.trufflenode,CDDL-GPL-2-CP
+experimental,j2ee.websphere6,CDDL-GPL-2-CP
+experimental,j2me.cdc.platform.bdj,CDDL-GPL-2-CP
+experimental,j2me.cdc.project.bdj,CDDL-GPL-2-CP
+experimental,j2me.cdc.project.bdj, BSD
+experimental,j2me.cdc.project.bdj, BSD
+experimental,j2me.cdc.project.bdj, BSD
+experimental,keyring.jps,CDDL-GPL-2-CP
+experimental,languages.refactoring,CDDL-GPL-2-CP
+experimental,libs.xmlbeans,CDDL-GPL-2-CP
+experimental,libs.xmlbeans, Apache-2.0
+experimental,mercurial.search,CDDL-GPL-2-CP
+experimental,o.n.bluej,CDDL-GPL-2-CP
+experimental,o.n.bluej.ui,CDDL-GPL-2-CP
+experimental,projectimport.jbuilder,CDDL-GPL-2-CP
+experimental,traceio,CDDL-GPL-2-CP
+experimental,uihandler.interactive,CDDL-GPL-2-CP
+experimental,web.domdiff,CDDL-GPL-2-CP
+experimental,web.facelets010114,CDDL-GPL-2-CP
+experimental,web.facelets010114,experimental,web.jsf.extensions,CDDL-GPL-2-CP
+experimental,web.jsf.extensions, CDDL V1.01
+experimental,web.jsf.extensions, CDDL V1.01
+experimental,web.jsf.extensions, Apache-2.0
+experimental,web.livehtml,CDDL-GPL-2-CP
+experimental,websvc.axis2,CDDL-GPL-2-CP
+experimental,websvc.axis2,experimental,websvc.jaxrpc,CDDL-GPL-2-CP
+experimental,websvc.jaxrpc16,CDDL-GPL-2-CP
+experimental,websvc.jaxrpc16, BCL
+experimental,websvc.jaxrpckit,CDDL-GPL-2-CP
+experimental,websvc.registry,CDDL-GPL-2-CP
+ergonomics,ide.ergonomics,CDDL-GPL-2-CP
+ergonomics,performance.ergonomics,CDDL-GPL-2-CP
+enterprise,api.web.webmodule,CDDL-GPL-2-CP
+enterprise,apisupport.restsample,CDDL-GPL-2-CP
+enterprise,cloud.amazon,CDDL-GPL-2-CP
+enterprise,cloud.common,CDDL-GPL-2-CP
+enterprise,el.lexer,CDDL-GPL-2-CP
+enterprise,glassfish.common,CDDL-GPL-2-CP
+enterprise,glassfish.eecommon,CDDL-GPL-2-CP
+enterprise,glassfish.javaee,CDDL-GPL-2-CP
+enterprise,glassfish.tooling,CDDL-GPL-2-CP
+enterprise,hibernateweb,CDDL-GPL-2-CP
+enterprise,j2ee.ant,CDDL-GPL-2-CP
+enterprise,j2ee.api.ejbmodule,CDDL-GPL-2-CP
+enterprise,j2ee.clientproject,CDDL-GPL-2-CP
+enterprise,j2ee.common,CDDL-GPL-2-CP
+enterprise,j2ee.core,CDDL-GPL-2-CP
+enterprise,j2ee.dd,CDDL-GPL-2-CP
+enterprise,j2ee.dd, CDDL-1.0
+enterprise,j2ee.dd.webservice,CDDL-GPL-2-CP
+enterprise,j2ee.ddloaders,CDDL-GPL-2-CP
+enterprise,j2ee.earproject,CDDL-GPL-2-CP
+enterprise,j2ee.ejbcore,CDDL-GPL-2-CP
+enterprise,j2ee.ejbjarproject,CDDL-GPL-2-CP
+enterprise,j2ee.ejbrefactoring,CDDL-GPL-2-CP
+enterprise,j2ee.ejbverification,CDDL-GPL-2-CP
+enterprise,j2ee.genericserver,CDDL-GPL-2-CP
+enterprise,j2ee.jboss4,CDDL-GPL-2-CP
+enterprise,j2ee.kit,CDDL-GPL-2-CP
+enterprise,j2ee.platform,CDDL-GPL-2-CP
+enterprise,j2ee.platform, CDDL-1.0
+enterprise,j2ee.samples,CDDL-GPL-2-CP
+enterprise,j2ee.sun.appsrv,CDDL-GPL-2-CP
+enterprise,j2ee.sun.dd,CDDL-GPL-2-CP
+enterprise,j2ee.sun.ddui,CDDL-GPL-2-CP
+enterprise,j2ee.weblogic9,CDDL-GPL-2-CP
+enterprise,j2eeapis,CDDL-GPL-2-CP
+enterprise,j2eeapis, CDDL-1.0
+enterprise,j2eeserver,CDDL-GPL-2-CP
+enterprise,javaee.api,CDDL-GPL-2-CP
+enterprise,javaee.api, CDDL-GPL-2-CP
+enterprise,javaee.api, CDDL-GPL-2-CP
+enterprise,javaee.api, CDDL-GPL-2-CP
+enterprise,javaee.api, CDDL-GPL-2-CP
+enterprise,javaee.api, CDDL-GPL-2-CP
+enterprise,javaee.beanvalidation,CDDL-GPL-2-CP
+enterprise,javaee.project,CDDL-GPL-2-CP
+enterprise,javaee.resources,CDDL-GPL-2-CP
+enterprise,javaee.specs.support,CDDL-GPL-2-CP
+enterprise,javaee.wildfly,CDDL-GPL-2-CP
+enterprise,javaee7.api,CDDL-GPL-2-CP
+enterprise,javaee7.api, CDDL-GPL-2-CP
+enterprise,javaee7.api, CDDL-GPL-2-CP
+enterprise,javaee7.api, CDDL-GPL-2-CP
+enterprise,javaee7.api, CDDL-GPL-2-CP
+enterprise,javaee7.api, CDDL-GPL-2-CP
+enterprise,javaee7.api, CDDL-GPL-2-CP
+enterprise,javaee7.api, CDDL-GPL-2-CP
+enterprise,jellytools.enterprise,CDDL-GPL-2-CP
+enterprise,jsp.lexer,CDDL-GPL-2-CP
+enterprise,ko4j.debugging,CDDL-GPL-2-CP
+enterprise,libs.amazon,CDDL-GPL-2-CP
+enterprise,libs.amazon, AWS-LICENSE
+enterprise,libs.amazon, Apache-2.0
+enterprise,libs.amazon, Apache-2.0
+enterprise,libs.amazon, Apache-2.0
+enterprise,libs.amazon, Apache-2.0
+enterprise,libs.commons_fileupload,CDDL-GPL-2-CP
+enterprise,libs.commons_fileupload, Apache-2.0
+enterprise,libs.elimpl,CDDL-GPL-2-CP
+enterprise,libs.elimpl, CDDL-GPL-2-CP
+enterprise,libs.glassfish_logging,CDDL-GPL-2-CP
+enterprise,libs.glassfish_logging, CDDL-GPL-2-CP
+enterprise,libs.jstl,CDDL-GPL-2-CP
+enterprise,libs.jstl, CDDL-GPL-2-CP
+enterprise,libs.jstl, CDDL-GPL-2-CP
+enterprise,maven.j2ee,CDDL-GPL-2-CP
+enterprise,maven.jaxws,CDDL-GPL-2-CP
+enterprise,maven.samples,CDDL-GPL-2-CP
+enterprise,performance.javaee,CDDL-GPL-2-CP
+enterprise,performance.scripting,CDDL-GPL-2-CP
+enterprise,performance.web,CDDL-GPL-2-CP
+enterprise,profiler.j2ee,CDDL-GPL-2-CP
+enterprise,projectimport.eclipse.web,CDDL-GPL-2-CP
+enterprise,servletjspapi,CDDL-GPL-2-CP
+enterprise,servletjspapi, CDDL-1.0
+enterprise,spring.webmvc,CDDL-GPL-2-CP
+enterprise,tomcat5,CDDL-GPL-2-CP
+enterprise,web.beans,CDDL-GPL-2-CP
+enterprise,web.client.rest,CDDL-GPL-2-CP
+enterprise,web.core,CDDL-GPL-2-CP
+enterprise,web.core.syntax,CDDL-GPL-2-CP
+enterprise,web.core.syntax, CDDL-1.0
+enterprise,web.debug,CDDL-GPL-2-CP
+enterprise,web.el,CDDL-GPL-2-CP
+enterprise,web.freeform,CDDL-GPL-2-CP
+enterprise,web.jsf,CDDL-GPL-2-CP
+enterprise,web.jsf.editor,CDDL-GPL-2-CP
+enterprise,web.jsf.editor, CDDL-1.0
+enterprise,web.jsf.icefaces,CDDL-GPL-2-CP
+enterprise,web.jsf.kit,CDDL-GPL-2-CP
+enterprise,web.jsf.navigation,CDDL-GPL-2-CP
+enterprise,web.jsf.richfaces,CDDL-GPL-2-CP
+enterprise,web.jsf12,CDDL-GPL-2-CP
+enterprise,web.jsf12, CDDL-1.0
+enterprise,web.jsf12ri,CDDL-GPL-2-CP
+enterprise,web.jsf20,CDDL-GPL-2-CP
+enterprise,web.jsf20, CDDL and GNU Public License v.2 w/Classpath Exception
+enterprise,web.jsfapi,CDDL-GPL-2-CP
+enterprise,web.jspparser,CDDL-GPL-2-CP
+enterprise,web.jspparser, CDDL-GPL-2-CP
+enterprise,web.kit,CDDL-GPL-2-CP
+enterprise,web.monitor,CDDL-GPL-2-CP
+enterprise,web.monitor, Apache-1.1
+enterprise,web.primefaces,CDDL-GPL-2-CP
+enterprise,web.primefaces, Apache-2.0
+enterprise,web.project,CDDL-GPL-2-CP
+enterprise,web.refactoring,CDDL-GPL-2-CP
+enterprise,web.struts,CDDL-GPL-2-CP
+enterprise,web.struts, Apache-2.0
+enterprise,weblogic.common,CDDL-GPL-2-CP
+enterprise,websocket,CDDL-GPL-2-CP
+enterprise,websvc.clientapi,CDDL-GPL-2-CP
+enterprise,websvc.core,CDDL-GPL-2-CP
+enterprise,websvc.customization,CDDL-GPL-2-CP
+enterprise,websvc.design,CDDL-GPL-2-CP
+enterprise,websvc.editor.hints,CDDL-GPL-2-CP
+enterprise,websvc.jaxws.lightapi,CDDL-GPL-2-CP
+enterprise,websvc.jaxwsapi,CDDL-GPL-2-CP
+enterprise,websvc.jaxwsmodel,CDDL-GPL-2-CP
+enterprise,websvc.kit,CDDL-GPL-2-CP
+enterprise,websvc.manager,CDDL-GPL-2-CP
+enterprise,websvc.metro.lib,CDDL-GPL-2-CP
+enterprise,websvc.metro.lib, CDDL-GPL-2-CP
+enterprise,websvc.metro.model,CDDL-GPL-2-CP
+enterprise,websvc.metro.samples,CDDL-GPL-2-CP
+enterprise,websvc.owsm,CDDL-GPL-2-CP
+enterprise,websvc.projectapi,CDDL-GPL-2-CP
+enterprise,websvc.rest,CDDL-GPL-2-CP
+enterprise,websvc.rest.samples,CDDL-GPL-2-CP
+enterprise,websvc.restapi,CDDL-GPL-2-CP
+enterprise,websvc.restkit,CDDL-GPL-2-CP
+enterprise,websvc.restlib,CDDL-GPL-2-CP
+enterprise,websvc.restlib,enterprise,websvc.restlib,enterprise,websvc.saas.codegen.j2ee,CDDL-GPL-2-CP
+enterprise,websvc.utilities,CDDL-GPL-2-CP
+enterprise,websvc.websvcapi,CDDL-GPL-2-CP
+enterprise,websvc.wsitconf,CDDL-GPL-2-CP
+enterprise,websvc.wsitmodelext,CDDL-GPL-2-CP
+enterprise,websvc.wsstackapi,CDDL-GPL-2-CP
+dlight,dlight.kit,CDDL-GPL-2-CP
+dlight,dlight.libs.common,CDDL-GPL-2-CP
+dlight,dlight.remote,CDDL-GPL-2-CP
+dlight,dlight.remote.impl,CDDL-GPL-2-CP
+dlight,dlight.remote.impl, TBD
+dlight,dlight.remote.ui,CDDL-GPL-2-CP
+dlight,dlight.sendto,CDDL-GPL-2-CP
+dlight,git.remote,CDDL-GPL-2-CP
+dlight,git.remote.cli,CDDL-GPL-2-CP
+dlight,mercurial.remote,CDDL-GPL-2-CP
+dlight,remotefs.versioning,CDDL-GPL-2-CP
+dlight,remotefs.versioning.api,CDDL-GPL-2-CP
+dlight,subversion.remote,CDDL-GPL-2-CP
+cndext,cnd.mixeddev,CDDL-GPL-2-CP
+cnd,cnd,CDDL-GPL-2-CP
+cnd,cnd.analysis.api,CDDL-GPL-2-CP
+cnd,cnd.analysis.impl,CDDL-GPL-2-CP
+cnd,cnd.antlr,CDDL-GPL-2-CP
+cnd,cnd.api.model,CDDL-GPL-2-CP
+cnd,cnd.api.project,CDDL-GPL-2-CP
+cnd,cnd.api.remote,CDDL-GPL-2-CP
+cnd,cnd.api.remote.ui,CDDL-GPL-2-CP
+cnd,cnd.apt,CDDL-GPL-2-CP
+cnd,cnd.asm,CDDL-GPL-2-CP
+cnd,cnd.callgraph,CDDL-GPL-2-CP
+cnd,cnd.classview,CDDL-GPL-2-CP
+cnd,cnd.cncppunit,CDDL-GPL-2-CP
+cnd,cnd.completion,CDDL-GPL-2-CP
+cnd,cnd.debugger.common2,CDDL-GPL-2-CP
+cnd,cnd.debugger.gdb2,CDDL-GPL-2-CP
+cnd,cnd.discovery,CDDL-GPL-2-CP
+cnd,cnd.discovery, TBD
+cnd,cnd.dwarfdiscovery,CDDL-GPL-2-CP
+cnd,cnd.dwarfdump,CDDL-GPL-2-CP
+cnd,cnd.editor,CDDL-GPL-2-CP
+cnd,cnd.gotodeclaration,CDDL-GPL-2-CP
+cnd,cnd.highlight,CDDL-GPL-2-CP
+cnd,cnd.indexing,CDDL-GPL-2-CP
+cnd,cnd.kit,CDDL-GPL-2-CP
+cnd,cnd.lexer,CDDL-GPL-2-CP
+cnd,cnd.makeproject,CDDL-GPL-2-CP
+cnd,cnd.makeproject.source.bridge,CDDL-GPL-2-CP
+cnd,cnd.makeproject.ui,CDDL-GPL-2-CP
+cnd,cnd.model.jclank.bridge,CDDL-GPL-2-CP
+cnd,cnd.model.services,CDDL-GPL-2-CP
+cnd,cnd.modeldiscovery,CDDL-GPL-2-CP
+cnd,cnd.modelimpl,CDDL-GPL-2-CP
+cnd,cnd.modelimpl, EPL-v10
+cnd,cnd.modelui,CDDL-GPL-2-CP
+cnd,cnd.modelutil,CDDL-GPL-2-CP
+cnd,cnd.navigation,CDDL-GPL-2-CP
+cnd,cnd.qnavigator,CDDL-GPL-2-CP
+cnd,cnd.refactoring,CDDL-GPL-2-CP
+cnd,cnd.remote,CDDL-GPL-2-CP
+cnd,cnd.remote, TBD
+cnd,cnd.remote.projectui,CDDL-GPL-2-CP
+cnd,cnd.remote.ui,CDDL-GPL-2-CP
+cnd,cnd.repository,CDDL-GPL-2-CP
+cnd,cnd.repository.api,CDDL-GPL-2-CP
+cnd,cnd.script,CDDL-GPL-2-CP
+cnd,cnd.search,CDDL-GPL-2-CP
+cnd,cnd.simpleunit,CDDL-GPL-2-CP
+cnd,cnd.source,CDDL-GPL-2-CP
+cnd,cnd.spellchecker.bindings,CDDL-GPL-2-CP
+cnd,cnd.testrunner,CDDL-GPL-2-CP
+cnd,cnd.toolchain,CDDL-GPL-2-CP
+cnd,cnd.toolchain.ui,CDDL-GPL-2-CP
+cnd,cnd.ui,CDDL-GPL-2-CP
+cnd,cnd.utils,CDDL-GPL-2-CP
+cnd,cnd.utils.ui,CDDL-GPL-2-CP
+cnd,jellytools.cnd,CDDL-GPL-2-CP
+cnd,libs.clank,CDDL-GPL-2-CP
+cnd,libs.clank, LLVM Release License
+bootstrap,core.startup,CDDL-GPL-2-CP
+bootstrap,core.startup.base,CDDL-GPL-2-CP
+bootstrap,libs.asm,CDDL-GPL-2-CP
+bootstrap,libs.asm, INRIA license
+bootstrap,o.n.bootstrap,CDDL-GPL-2-CP
+bootstrap,openide.filesystems,CDDL-GPL-2-CP
+bootstrap,openide.modules,CDDL-GPL-2-CP
+bootstrap,openide.util,CDDL-GPL-2-CP
+bootstrap,openide.util.lookup,CDDL-GPL-2-CP
+bootstrap,openide.util.ui,CDDL-GPL-2-CP
+betauc,apisupport.apidocs,CDDL-GPL-2-CP
+betauc,avatar_js.project,CDDL-GPL-2-CP
+betauc,avatar_js.project, GPL-2-CP
+betauc,cloud.oracle,CDDL-GPL-2-CP
+betauc,db.mysql.sakila,CDDL-GPL-2-CP
+betauc,deployment.deviceanywhere,CDDL-GPL-2-CP
+betauc,findbugs,CDDL-GPL-2-CP
+betauc,j2me.cdc.kit,CDDL-GPL-2-CP
+betauc,j2me.cdc.platform,CDDL-GPL-2-CP
+betauc,j2me.cdc.platform.nokias80,CDDL-GPL-2-CP
+betauc,j2me.cdc.platform.ojec,CDDL-GPL-2-CP
+betauc,j2me.cdc.platform.semc,CDDL-GPL-2-CP
+betauc,j2me.cdc.platform.sjmc,CDDL-GPL-2-CP
+betauc,j2me.cdc.platform.sun,CDDL-GPL-2-CP
+betauc,j2me.cdc.project,CDDL-GPL-2-CP
+betauc,j2me.cdc.project.execui,CDDL-GPL-2-CP
+betauc,j2me.cdc.project.execuiimpl,CDDL-GPL-2-CP
+betauc,j2me.cdc.project.nokiaS80,CDDL-GPL-2-CP
+betauc,j2me.cdc.project.ojec,CDDL-GPL-2-CP
+betauc,j2me.cdc.project.savaje,CDDL-GPL-2-CP
+betauc,j2me.cdc.project.semc,CDDL-GPL-2-CP
+betauc,j2me.cdc.project.sjmc,CDDL-GPL-2-CP
+betauc,jconsole,CDDL-GPL-2-CP
+betauc,jmx,CDDL-GPL-2-CP
+betauc,jmx.common,CDDL-GPL-2-CP
+betauc,libs.aguiswinglayout,CDDL-GPL-2-CP
+betauc,libs.findbugs,CDDL-GPL-2-CP
+betauc,libs.findbugs, BSD
+betauc,libs.findbugs, Apache-2.0
+betauc,libs.findbugs, Apache-2.0
+betauc,libs.findbugs, DOM4J-BSD
+betauc,libs.findbugs, LGPL-2.1
+betauc,libs.findbugs, GPL
+betauc,libs.findbugs, BSD
+betauc,libs.findbugs, New BSD
+betauc,libs.oracle.cloud,CDDL-GPL-2-CP
+betauc,libs.oracle.cloud, CDDL-GPL-2-CP
+betauc,libs.ppawtlayout,CDDL-GPL-2-CP
+betauc,loadgenerator,CDDL-GPL-2-CP
+betauc,maven.util,CDDL-GPL-2-CP
+betauc,mobility.antext,CDDL-GPL-2-CP
+betauc,mobility.antext, Apache-2.0
+betauc,mobility.cldcplatform.catalog,CDDL-GPL-2-CP
+betauc,mobility.deployment.ftpscp,CDDL-GPL-2-CP
+betauc,mobility.deployment.nokia,CDDL-GPL-2-CP
+betauc,mobility.deployment.nokia,betauc,mobility.deployment.nokia,betauc,mobility.deployment.sonyericsson,CDDL-GPL-2-CP
+betauc,mobility.deployment.webdav,CDDL-GPL-2-CP
+betauc,mobility.deployment.webdav, Apache-2.0
+betauc,mobility.deployment.webdav, Apache-2.0
+betauc,mobility.deployment.webdav, Apache-2.0
+betauc,mobility.deployment.webdav, Apache-JDOM
+betauc,mobility.editor,CDDL-GPL-2-CP
+betauc,mobility.j2meunit,CDDL-GPL-2-CP
+betauc,mobility.j2meunit, Apache-2.0
+betauc,mobility.j2meunit, Apache-2.0
+betauc,mobility.kit,CDDL-GPL-2-CP
+betauc,mobility.plugins.mpowerplayer,CDDL-GPL-2-CP
+betauc,mobility.project,CDDL-GPL-2-CP
+betauc,mobility.project.bridge,CDDL-GPL-2-CP
+betauc,mobility.project.bridge.impl,CDDL-GPL-2-CP
+betauc,mobility.svgcore,CDDL-GPL-2-CP
+betauc,mvd,CDDL-GPL-2-CP
+betauc,o.apache.tools.ant.module.docs,CDDL-GPL-2-CP
+betauc,o.apache.tools.ant.module.docs, Apache-2.0
+betauc,o.n.swing.laf.dark,CDDL-GPL-2-CP
+betauc,profiler.commandrunner,CDDL-GPL-2-CP
+betauc,profiler.loadgen,CDDL-GPL-2-CP
+betauc,svg.perseus,CDDL-GPL-2-CP
+betauc,svg.perseus, Apache-2.0-Vera-Perseus
+betauc,swingapplib,CDDL-GPL-2-CP
+betauc,swingapplib,LGPL-2
+betauc,swingapplib, LGPL-2.1
+betauc,swingapplib, LGPL-2.1
+betauc,vmd.analyzer,CDDL-GPL-2-CP
+betauc,vmd.codegen,CDDL-GPL-2-CP
+betauc,vmd.components.midp,CDDL-GPL-2-CP
+betauc,vmd.components.midp.pda,CDDL-GPL-2-CP
+betauc,vmd.components.midp.wma,CDDL-GPL-2-CP
+betauc,vmd.components.svg,CDDL-GPL-2-CP
+betauc,vmd.componentssupport,CDDL-GPL-2-CP
+betauc,vmd.examples,CDDL-GPL-2-CP
+betauc,vmd.flow,CDDL-GPL-2-CP
+betauc,vmd.game,CDDL-GPL-2-CP
+betauc,vmd.inspector,CDDL-GPL-2-CP
+betauc,vmd.io,CDDL-GPL-2-CP
+betauc,vmd.io.javame,CDDL-GPL-2-CP
+betauc,vmd.kit,CDDL-GPL-2-CP
+betauc,vmd.midp,CDDL-GPL-2-CP
+betauc,vmd.midp.converter,CDDL-GPL-2-CP
+betauc,vmd.midpnb,CDDL-GPL-2-CP
+betauc,vmd.model,CDDL-GPL-2-CP
+betauc,vmd.palette,CDDL-GPL-2-CP
+betauc,vmd.properties,CDDL-GPL-2-CP
+betauc,vmd.screen,CDDL-GPL-2-CP
+betauc,vmd.structure,CDDL-GPL-2-CP
+betauc,clearcase,CDDL-GPL-2-CP
+betauc,coherence,CDDL-GPL-2-CP
+betauc,contrib/ant.freeform.samples,CDDL-GPL-2-CP
+betauc,contrib/api.workqueues,CDDL-GPL-2-CP
+betauc,contrib/apisupport.projectinspector,CDDL-GPL-2-CP
+betauc,contrib/autoproject.core,CDDL-GPL-2-CP
+betauc,contrib/autoproject.java,CDDL-GPL-2-CP
+betauc,contrib/autoproject.profiler,CDDL-GPL-2-CP
+betauc,contrib/autoproject.web,CDDL-GPL-2-CP
+betauc,contrib/cnd.debugger.gdbserver,CDDL-GPL-2-CP
+betauc,contrib/docbook,CDDL-GPL-2-CP
+betauc,contrib/docbook,betauc,contrib/docbook,betauc,contrib/docbook, MPL-1.0
+betauc,contrib/docbook,betauc,contrib/docbook,betauc,contrib/docbook.project,CDDL-GPL-2-CP
+betauc,contrib/imagepaste,CDDL-GPL-2-CP
+betauc,contrib/insertunicode,CDDL-GPL-2-CP
+betauc,contrib/insertunicode,betauc,contrib/j2ee.geronimo2,CDDL-GPL-2-CP
+betauc,contrib/j2ee.jetty,CDDL-GPL-2-CP
+betauc,contrib/logmanagement,CDDL-GPL-2-CP
+betauc,contrib/modulemanager,CDDL-GPL-2-CP
+betauc,contrib/quickfilechooser,CDDL-GPL-2-CP
+betauc,contrib/selenium,CDDL-GPL-2-CP
+betauc,contrib/selenium.maven,CDDL-GPL-2-CP
+betauc,contrib/selenium.php,CDDL-GPL-2-CP
+betauc,contrib/selenium.server,CDDL-GPL-2-CP
+betauc,o.apache.jmeter.module,CDDL-GPL-2-CP
+betauc,o.apache.jmeter.module,
+betauc,websvc.rest.wadl.design,CDDL-GPL-2-CP
+betauc,websvc.rest.wadl.model,CDDL-GPL-2-CP
+apisupport,apisupport.ant,CDDL-GPL-2-CP
+apisupport,apisupport.crudsample,CDDL-GPL-2-CP
+apisupport,apisupport.feedreader,CDDL-GPL-2-CP
+apisupport,apisupport.feedreader, Apache-JDOM
+apisupport,apisupport.feedreader, Apache-2.0
+apisupport,apisupport.feedreader, Apache-2.0
+apisupport,apisupport.installer,CDDL-GPL-2-CP
+apisupport,apisupport.installer.maven,CDDL-GPL-2-CP
+apisupport,apisupport.kit,CDDL-GPL-2-CP
+apisupport,apisupport.osgidemo,CDDL-GPL-2-CP
+apisupport,apisupport.paintapp,CDDL-GPL-2-CP
+apisupport,apisupport.project,CDDL-GPL-2-CP
+apisupport,apisupport.refactoring,CDDL-GPL-2-CP
+apisupport,apisupport.wizards,CDDL-GPL-2-CP
+apisupport,maven.apisupport,CDDL-GPL-2-CP
